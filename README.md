@@ -21,8 +21,8 @@ If you want to search & filters the complete database of [.PHD one word domains]
 
 | Domain         | Status    | Attract. | Demand | Length | Registrar | Created | Expires |
 | -------------- | --------- | -------- | ------ | ------ | --------- | ------- | ------- |
-| aaa.phd        | available | 70       | 38%    | 3      |           |         |         |
-| aaron.phd      | available | 88       | 32%    | 5      |           |         |         |
+| aaa.phd        | premium   | 70       | 38%    | 3      |           |         |         |
+| aaron.phd      | premium   | 88       | 32%    | 5      |           |         |         |
 | abactinal.phd  | available | 50       | 1%     | 9      |           |         |         |
 | abaft.phd      | available | 43       | 2%     | 5      |           |         |         |
 | abandoned.phd  | available | 58       | 7%     | 9      |           |         |         |
@@ -32,7 +32,7 @@ If you want to search & filters the complete database of [.PHD one word domains]
 | abatic.phd     | available | 54       | 2%     | 6      |           |         |         |
 | abaxial.phd    | available | 54       | 2%     | 7      |           |         |         |
 | abbatial.phd   | available | 50       | 1%     | 8      |           |         |         |
-| abc.phd        | available | 102      | 41%    | 3      |           |         |         |
+| abc.phd        | premium   | 102      | 41%    | 3      |           |         |         |
 | abdicable.phd  | available | 50       | 1%     | 9      |           |         |         |
 | abdominal.phd  | available | 82       | 5%     | 9      |           |         |         |
 | abdominous.phd | available | 56       | 1%     | 10     |           |         |         |
