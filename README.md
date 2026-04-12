@@ -1,22 +1,22 @@
-# Available .PHD One-Word Domains (5,621,926)
+# Available .PHD One-Word Domains (9,913)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-9%2C913%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-5%2C621%2C926%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-9%2C913%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of available and resale .phd one-word domains from Unique Domains.
+Daily-updated dataset of available and resale .phd one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 9,913-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **5,621,926 domains** on the canonical page below.
+> **Note:** this repository currently mirrors the full live catalog for this exact search.
+> Unique Domains counts can still change as the search refreshes.
 
-**Public extract:** 9,913 rows · **Live catalog:** 5,621,926 domains
+**Public extract:** 9,913 rows · **Live catalog:** 9,913 domains
 
-**Last updated:** 2026-04-10  
+**Last updated:** 2026-04-12  
 **Canonical page:** `https://unique.domains/domains/tld/phd`  
 **Best for:** founders, investors, studios
 
@@ -71,16 +71,16 @@ print(df.head())
 | power.phd      | premium   | $843.70   | $843.70       | 98             | 62     | 5      | namecheap   |
 | ethereal.phd   | available | $26.99    | $37.99        | 88             | 32     | 8      | name.com    |
 | seventeen.phd  | premium   | $61.25    | $61.25        | 84             | 62     | 9      | name.com    |
-| adept.phd      | available | $26.99    | $37.99        | 92             | 27     | 5      | name.com    |
-| data.phd       | premium   | $843.70   | $843.70       | 70             | 60     | 4      | namecheap   |
 | curative.phd   | available | $26.99    | $37.99        | 92             | 27     | 8      | name.com    |
 | free.phd       | premium   | $811.25   | $811.25       | 88             | 59     | 4      | name.com    |
-| remedial.phd   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com    |
+| adept.phd      | available | $26.99    | $37.99        | 92             | 26     | 5      | name.com    |
 | cloud.phd      | premium   | $1,688.70 | $1,688.70     | 70             | 59     | 5      | namecheap   |
-| critical.phd   | available | $26.99    | $37.99        | 82             | 24     | 8      | name.com    |
+| remedial.phd   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com    |
 | ace.phd        | premium   | $811.25   | $811.25       | 88             | 57     | 3      | name.com    |
+| critical.phd   | available | $26.99    | $37.99        | 82             | 24     | 8      | name.com    |
+| live.phd       | premium   | $811.25   | $811.25       | 108            | 56     | 4      | name.com    |
 | sincere.phd    | available | $26.99    | $37.99        | 72             | 22     | 7      | name.com    |
-| live.phd       | premium   | $811.25   | $811.25       | 108            | 55     | 4      | name.com    |
+| data.phd       | premium   | $843.70   | $843.70       | 70             | 56     | 4      | namecheap   |
 | abundant.phd   | available | $26.99    | $37.99        | 80             | 21     | 8      | name.com    |
 | good.phd       | premium   | $811.25   | $811.25       | 82             | 55     | 4      | name.com    |
 | cooked.phd     | available | $26.99    | $37.99        | 70             | 21     | 6      | name.com    |
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                   |
 | ----------------------- | ------------------------------------------------ |
-| 9,913-row public sample | 5,621,926 live domains                           |
+| 9,913-row public sample | 9,913 live domains                               |
 | Static CSV / JSON       | live search and daily refresh                    |
 | Basic exported fields   | deeper price, demand, risk, and workflow context |
 | No persistence          | Radar, saved search, and alerts                  |
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-04-10. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-04-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
