@@ -72,18 +72,18 @@ print(df.head())
 | ethereal.phd   | available | $26.99    | $37.99        | 88             | 31     | 8      | name.com    |
 | seventeen.phd  | premium   | $61.25    | $61.25        | 84             | 62     | 9      | name.com    |
 | curative.phd   | available | $26.99    | $37.99        | 92             | 27     | 8      | name.com    |
-| free.phd       | premium   | $811.25   | $811.25       | 88             | 59     | 4      | name.com    |
-| adept.phd      | available | $26.99    | $37.99        | 92             | 26     | 5      | name.com    |
 | cloud.phd      | premium   | $1,688.70 | $1,688.70     | 70             | 59     | 5      | namecheap   |
-| remedial.phd   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com    |
+| adept.phd      | available | $26.99    | $37.99        | 92             | 26     | 5      | name.com    |
 | ace.phd        | premium   | $811.25   | $811.25       | 88             | 57     | 3      | name.com    |
+| remedial.phd   | available | $26.99    | $37.99        | 86             | 24     | 8      | name.com    |
+| free.phd       | premium   | $811.25   | $811.25       | 88             | 57     | 4      | name.com    |
 | critical.phd   | available | $26.99    | $37.99        | 82             | 24     | 8      | name.com    |
 | live.phd       | premium   | $811.25   | $811.25       | 108            | 56     | 4      | name.com    |
-| sincere.phd    | available | $26.99    | $37.99        | 72             | 22     | 7      | name.com    |
-| data.phd       | premium   | $843.70   | $843.70       | 70             | 56     | 4      | namecheap   |
 | abundant.phd   | available | $26.99    | $37.99        | 80             | 21     | 8      | name.com    |
+| data.phd       | premium   | $843.70   | $843.70       | 70             | 56     | 4      | namecheap   |
+| sincere.phd    | available | $26.99    | $37.99        | 72             | 21     | 7      | name.com    |
 | good.phd       | premium   | $811.25   | $811.25       | 82             | 55     | 4      | name.com    |
-| cooked.phd     | available | $26.99    | $37.99        | 70             | 21     | 6      | name.com    |
+| cooked.phd     | available | $26.99    | $37.99        | 70             | 20     | 6      | name.com    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
