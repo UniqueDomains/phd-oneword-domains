@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .phd one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 12,902 domains · **Median ask:** $103.38 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-05-26  
 **Canonical page:** `https://unique.domains/domains/tld/phd`  
 **Best for:** founders, investors, studios
 
@@ -75,13 +75,13 @@ print(df.head())
 | investors.phd     | available | $26.99    | —             | 60             | 23     | 9      | name.com  |
 | robots.phd        | premium   | $198.75   | —             | 62             | 47     | 6      | name.com  |
 | unicorns.phd      | available | $26.99    | —             | 73             | 21     | 8      | name.com  |
-| Ryan.phd          | premium   | $460.60   | $460.60       | 60             | 44     | 4      | namecheap |
+| whynot.phd        | premium   | $198.75   | —             | 74             | 44     | 7      | name.com  |
 | snaps.phd         | available | $26.99    | —             | 52             | 20     | 5      | name.com  |
-| coins.phd         | premium   | $411.25   | —             | 56             | 41     | 5      | name.com  |
+| Ryan.phd          | premium   | $460.60   | $460.60       | 60             | 44     | 4      | namecheap |
 | breakingnews.phd  | available | $26.99    | —             | 66             | 19     | 13     | name.com  |
-| matcha.phd        | premium   | $61.25    | —             | 86             | 39     | 6      | name.com  |
+| coins.phd         | premium   | $411.25   | —             | 56             | 41     | 5      | name.com  |
 | lostandfound.phd  | available | $26.99    | —             | 64             | 19     | 14     | name.com  |
-| whynot.phd        | premium   | $198.75   | —             | 74             | 39     | 7      | name.com  |
+| matcha.phd        | premium   | $61.25    | —             | 86             | 39     | 6      | name.com  |
 | goviral.phd       | available | $26.99    | —             | 76             | 17     | 8      | name.com  |
 | justin.phd        | premium   | $811.25   | —             | 58             | 38     | 7      | name.com  |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-05-15. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
