@@ -14,10 +14,10 @@ Daily-updated public extract of available and resale .phd one-word domains from 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
 > The full live catalog for this exact search currently contains **12,902 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 12,902 domains · **Median ask:** $103.38 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 12,902 domains · **Median ask:** $149.64 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-26  
-**Canonical page:** `https://unique.domains/domains/tld/phd`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/phd`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .PHD one-word domain c
 
 ### Files
 
-- `phd.csv` — public CSV extract (1,000 rows)
-- `phd.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `phd.csv`, public CSV extract (1,000 rows)
+- `phd.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain            | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
-| ----------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
-| keepthechange.phd | available | $26.99    | —             | 46             | 59     | 15     | name.com  |
-| online.phd        | premium   | $811.25   | —             | 70             | 62     | 7      | name.com  |
-| prompts.phd       | available | $26.99    | —             | 54             | 39     | 7      | name.com  |
-| regions.phd       | premium   | $198.75   | —             | 64             | 59     | 7      | name.com  |
-| commonground.phd  | available | $26.99    | —             | 74             | 28     | 13     | name.com  |
-| agents.phd        | premium   | $411.25   | —             | 56             | 50     | 6      | name.com  |
-| echoes.phd        | available | $26.99    | —             | 56             | 24     | 6      | name.com  |
-| Books.phd         | premium   | $1,818.60 | $1,818.60     | 52             | 49     | 5      | namecheap |
-| investors.phd     | available | $26.99    | —             | 60             | 23     | 9      | name.com  |
-| robots.phd        | premium   | $198.75   | —             | 62             | 47     | 6      | name.com  |
-| unicorns.phd      | available | $26.99    | —             | 73             | 21     | 8      | name.com  |
-| whynot.phd        | premium   | $198.75   | —             | 74             | 44     | 7      | name.com  |
-| snaps.phd         | available | $26.99    | —             | 52             | 20     | 5      | name.com  |
-| Ryan.phd          | premium   | $460.60   | $460.60       | 60             | 44     | 4      | namecheap |
-| breakingnews.phd  | available | $26.99    | —             | 66             | 19     | 13     | name.com  |
-| coins.phd         | premium   | $411.25   | —             | 56             | 41     | 5      | name.com  |
-| lostandfound.phd  | available | $26.99    | —             | 64             | 19     | 14     | name.com  |
-| matcha.phd        | premium   | $61.25    | —             | 86             | 39     | 6      | name.com  |
-| goviral.phd       | available | $26.99    | —             | 76             | 17     | 8      | name.com  |
-| justin.phd        | premium   | $811.25   | —             | 58             | 38     | 7      | name.com  |
+| domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| brie.phd  | available | $26.99    | —             | high           | low    | 4      | name.com  |
+| age.phd   | premium   | $811.25   | —             | high           | low    | 3      | name.com  |
+| whiz.phd  | available | $26.99    | $37.99        | high           | low    | 4      | name.com  |
+| aid.phd   | premium   | $411.25   | —             | medium         | low    | 3      | name.com  |
+| whom.phd  | available | $26.99    | —             | low            | low    | 4      | name.com  |
+| aim.phd   | premium   | $198.75   | —             | high           | low    | 3      | name.com  |
+| abide.phd | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| art.phd   | premium   | $1,688.70 | $1,688.70     | high           | medium | 3      | namecheap |
+| awful.phd | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| awe.phd   | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
+| decay.phd | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| beg.phd   | premium   | $111.25   | —             | medium         | low    | 3      | name.com  |
+| obese.phd | available | $26.99    | $37.99        | high           | low    | 5      | name.com  |
+| ben.phd   | premium   | $811.25   | —             | high           | medium | 3      | name.com  |
+| petty.phd | available | $26.99    | —             | medium         | low    | 5      | name.com  |
+| bug.phd   | premium   | $411.25   | —             | high           | low    | 3      | name.com  |
+| Rhoda.phd | available | $26.99    | —             | medium         | low    | 5      | name.com  |
+| bye.phd   | premium   | $111.25   | —             | high           | low    | 3      | name.com  |
+| rigid.phd | available | $26.99    | —             | high           | low    | 5      | name.com  |
+| con.phd   | premium   | $811.25   | —             | high           | low    | 3      | name.com  |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This selection is entirely made up of .phd domains. The set includes short names, dictionary words, personal-name style domains, and longer terms such as granddaughter.phd. Examples like photo.phd, aspect.phd, abide.phd, and commend.phd show the range from broad words to more specific terms. When comparing these domains, focus on whether the word fits a credible academic, advisory, research, or expert-led identity. The median ask is 103.38, which keeps price discipline important, but the main evaluation point here is fit: the stronger the word-to-extension match, the easier the domain is to defend as memorable and intentional.
+This set of .phd domains spans everyday one-word names like homes.phd and dogsit.phd to playful compounds such as slicedbread.phd and bonvoyage.phd. With a median ask near $150 across 12,902 listings, pricing stays accessible for early movers while renewal costs and TLD adoption remain key variables to weigh before locking in a name.
 
-- All domains in this selection use the .phd extension
-- Examples range from photo.phd to inspire.phd
-- Median ask across the set is 103.38
-- Best picks usually match expertise or academic positioning
+- 12,902 one-word .phd domains in this selection
+- Median ask near $150 — budget-friendly entry point
+- Mix of brandable single words and playful compounds
+- Updated daily for fresh pricing and availability
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-05-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
