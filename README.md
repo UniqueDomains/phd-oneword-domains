@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .phd one-word domains from 
 
 **Public extract:** 1,000 rows · **Live catalog:** 24,473 domains · **Median ask:** $86.46 · **High-demand under $2,500:** 44
 
-**Last updated:** 2026-09-13
+**Last updated:** 2026-09-14
 **Canonical page:** `https://unique.domains/domains/tld/phd`
 **Best for:** founders, investors, studios
 
@@ -65,7 +65,7 @@ print(df.head())
 | domain    | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
 | --------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
 | agog.phd  | available | $25.98    | $29.98        | low            | low    | 4      | namecheap |
-| age.phd   | premium   | $811.25   | —             | high           | low    | 3      | name.com  |
+| age.phd   | premium   | $843.70   | $843.70       | medium         | low    | 3      | namecheap |
 | awol.phd  | available | $25.98    | $29.98        | low            | low    | 4      | namecheap |
 | aid.phd   | premium   | $411.25   | —             | medium         | low    | 3      | name.com  |
 | awry.phd  | available | $25.98    | $29.98        | low            | low    | 4      | namecheap |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-09-13. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-09-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
