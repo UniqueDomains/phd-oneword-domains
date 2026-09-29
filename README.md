@@ -1,10 +1,10 @@
-# Available .PHD One-Word Domains (25,732)
+# Available .PHD One-Word Domains (27,640)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-25%2C732%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-27%2C640%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .phd one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **25,732 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **27,640 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 25,732 domains · **Median ask:** $101.09 · **High-demand under $2,500:** 70
+**Public extract:** 1,000 rows · **Live catalog:** 27,640 domains · **Median ask:** $97.32 · **High-demand under $2,500:** 75
 
-**Last updated:** 2026-09-28
+**Last updated:** 2026-09-29
 **Canonical page:** `https://unique.domains/domains/tld/phd`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain   | status    | ask_price | renewal_price | attractiveness | demand | length | registrar   |
-| -------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------- |
-| abcs.phd | available | $25.98    | $29.98        | high           | low    | 4      | namecheap   |
-| adh.phd  | premium   | $111.25   | $111.25       | high           | low    | 3      | name.com    |
-| acth.phd | available | $25.98    | $29.98        | medium         | low    | 4      | namecheap   |
-| aft.phd  | premium   | $111.25   | $111.25       | high           | low    | 3      | name.com    |
-| adar.phd | available | $25.98    | $29.98        | medium         | low    | 4      | namecheap   |
-| ara.phd  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
-| ayin.phd | available | $25.98    | $29.98        | high           | low    | 4      | namecheap   |
-| ass.phd  | premium   | $811.25   | $811.25       | high           | low    | 3      | name.com    |
-| deft.phd | available | $25.98    | $29.98        | high           | low    | 4      | namecheap   |
-| bap.phd  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
-| flew.phd | available | $26.99    | —             | high           | low    | 4      | name.com    |
-| bce.phd  | premium   | $111.25   | —             | high           | low    | 3      | name.com    |
-| fogy.phd | available | $25.98    | $29.98        | medium         | low    | 4      | namecheap   |
-| cfa.phd  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
-| grub.phd | available | $25.98    | $29.98        | high           | low    | 4      | namecheap   |
-| clv.phd  | premium   | $111.25   | $111.25       | high           | low    | 3      | name.com    |
-| hiss.phd | available | $25.98    | $29.98        | medium         | low    | 4      | namecheap   |
-| dew.phd  | premium   | $111.25   | —             | high           | low    | 3      | name.com    |
-| kidd.phd | available | $21.11    | $21.11        | high           | low    | 4      | porkbun     |
-| fda.phd  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
+| domain        | status    | ask_price | renewal_price | attractiveness | demand | length | registrar |
+| ------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------- |
+| possible.phd  | premium   | $206.70   | $206.70       | high           | low    | 8      | namecheap |
+| flower.phd    | premium   | $843.70   | $843.70       | high           | low    | 6      | namecheap |
+| electric.phd  | premium   | $411.25   | $411.25       | high           | low    | 8      | name.com  |
+| top.phd       | premium   | $1,688.70 | $1,688.70     | high           | medium | 3      | namecheap |
+| badge.phd     | premium   | $115.70   | $115.70       | high           | low    | 5      | namecheap |
+| proper.phd    | premium   | $206.70   | $206.70       | high           | low    | 6      | namecheap |
+| wet.phd       | premium   | $427.70   | $427.70       | high           | low    | 3      | namecheap |
+| positive.phd  | premium   | $427.70   | $427.70       | high           | low    | 8      | namecheap |
+| asset.phd     | premium   | $206.70   | $206.70       | high           | low    | 5      | namecheap |
+| madison.phd   | premium   | $206.70   | $206.70       | high           | low    | 7      | namecheap |
+| jewels.phd    | premium   | $115.70   | $115.70       | high           | low    | 6      | namecheap |
+| educated.phd  | available | $25.98    | $29.98        | high           | low    | 8      | namecheap |
+| marketing.phd | premium   | $843.70   | $843.70       | high           | medium | 9      | namecheap |
+| worker.phd    | premium   | $206.70   | $206.70       | high           | low    | 6      | namecheap |
+| abiding.phd   | available | $25.98    | $29.98        | high           | low    | 7      | namecheap |
+| shorts.phd    | premium   | $164.77   | $164.77       | high           | low    | 6      | spaceship |
+| forensic.phd  | premium   | $63.70    | $63.70        | high           | low    | 8      | namecheap |
+| proactive.phd | premium   | $63.70    | $63.70        | high           | low    | 9      | namecheap |
+| tall.phd      | premium   | $206.70   | $206.70       | high           | low    | 4      | namecheap |
+| adequate.phd  | available | $25.98    | $29.98        | high           | low    | 8      | namecheap |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 25,732 live domains                        |
+| 1,000-row public sample | 27,640 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 70 high-demand names under $2,500          |
+| Basic exported fields   | 75 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-09-28. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-09-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 

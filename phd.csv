@@ -1,10 +1,12 @@
 id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,registrar,created_at,expires_at,status_verified_at
 9bb399e8-3e49-4b6c-93af-85b5b6c59a3d,daily.phd,premium,843.7,843.7,high,medium,5,namecheap,,,24/09/2026 04:21
 9017c8cb-6e78-4feb-ab55-5f245ad2630e,heralded.phd,available,25.98,29.98,medium,low,8,namecheap,,,21/08/2026 06:51
+365dcb17-8418-4adf-b991-e04c70fe5818,rembrandt.phd,available,27,,high,low,9,unstoppable,,,28/09/2026 15:14
 8d9b4b59-773b-4735-873a-d6b08fd8aa5a,rumors.phd,available,25.98,29.98,medium,low,6,namecheap,,,27/09/2026 09:37
 652a9d1c-8885-475e-9d48-86b29e91ed73,titanic.phd,premium,111.25,111.25,high,low,7,name.com,,,11/09/2026 16:30
-3ef3d4d3-d507-4d17-a5dc-e4cff423fdb3,iphone.phd,available,26.99,,high,high,6,name.com,,,
+3ef3d4d3-d507-4d17-a5dc-e4cff423fdb3,iphone.phd,available,21.11,21.11,high,high,6,porkbun,,,29/09/2026 02:15
 d3f3b4a1-f88c-4330-8c92-d7cd5b551257,arguer.phd,available,25.98,29.98,medium,low,6,namecheap,,,20/09/2026 04:46
+a09ff931-6f07-487a-914c-74616aecc454,stu.phd,premium,,,high,low,3,,,,29/09/2026 03:33
 e2a60a6e-b19a-4c99-9391-4737e1f7f045,stepwise.phd,available,25.98,29.98,high,low,8,namecheap,,,10/08/2026 07:12
 fc962c7f-a34d-441f-b824-ba178b2bf3a1,devout.phd,available,25.98,29.98,high,low,6,namecheap,,,14/08/2026 05:17
 245dfd86-0354-4cc3-b7cf-c4ef8e97c19c,blocks.phd,premium,206.7,206.7,high,low,6,namecheap,,,17/09/2026 21:52
@@ -16,10 +18,13 @@ db9a5c2e-402c-46ce-af39-a930cc32b3f4,buzzing.phd,available,25.98,29.98,high,low,
 dff4088d-f1b1-4fd0-b2a4-79d8eeeb39d8,bandeau.phd,available,25.98,29.98,medium,low,7,namecheap,,,22/09/2026 01:04
 3775c40d-6cd1-4e73-9e39-5cfb51a3622d,chicness.phd,available,25.98,29.98,medium,low,8,namecheap,,,12/08/2026 04:44
 74ab6f7e-3cad-42d8-9a8c-630435f47431,dvorak.phd,available,25.98,29.98,medium,low,6,namecheap,,,19/09/2026 15:32
+e0e17ab1-8c0e-4800-b8a0-c71b236fd567,groningen.phd,available,20.84,20.84,medium,low,9,spaceship,,,29/09/2026 03:44
 19334517-c83a-4d50-b376-8a9b327a1327,manila.phd,premium,111.25,,high,low,6,name.com,,,
 519b518c-0a2d-4c6a-a405-2bc7daf4a066,audibly.phd,available,25.98,29.98,medium,low,7,namecheap,,,13/09/2026 22:44
+0532263b-7003-4017-ad9c-144fb2213fe6,falkland.phd,available,20.84,20.84,medium,low,8,spaceship,,,28/09/2026 12:09
 ac7ae39d-dc0a-4ffc-9572-a86cd75ed409,teenager.phd,premium,115.7,115.7,high,low,8,namecheap,,,21/09/2026 19:08
 3a9021d1-a539-4716-802a-59bea974dc1c,reigning.phd,available,25.98,29.98,high,medium,8,namecheap,,,09/09/2026 12:57
+d3d6bdb8-361c-4c06-aa15-13b5df38fb97,disposition.phd,available,27,,high,low,11,unstoppable,,,29/09/2026 02:57
 9061bb68-d284-4d60-86e9-516090a29750,prayed.phd,available,25.98,29.98,medium,low,6,namecheap,,,18/09/2026 02:41
 db165c78-e7f7-4768-b383-ed47e4e37bca,parentally.phd,available,25.98,29.98,medium,low,10,namecheap,,,15/09/2026 18:57
 261cca09-1b10-4735-9808-0ae9dc1a8e38,elementary.phd,premium,198.75,198.75,high,low,10,name.com,,,16/08/2026 03:31
@@ -29,6 +34,7 @@ d54ebbb6-78ce-475e-a3b1-f9bd47687eae,swishing.phd,available,25.98,29.98,high,low
 a5be05f1-f6e8-48ec-88e0-59f552bf8329,barleycorn.phd,available,25.98,29.98,medium,low,10,namecheap,,,22/09/2026 06:31
 1d3c1856-3cbf-465d-be76-21ef41338598,desolation.phd,available,26.99,37.99,medium,low,10,name.com,,,22/09/2026 05:24
 be57694a-13c2-42b5-90fb-fe930a72cda6,winsome.phd,available,25.98,29.98,high,low,7,namecheap,,,13/09/2026 12:37
+370cabf0-0316-448e-956a-94ae196ac65d,cylinder.phd,available,20.84,20.84,high,low,8,spaceship,,,29/09/2026 00:34
 51e8f8ad-3f25-495f-92e8-9ec69259e6e5,congestion.phd,available,26.99,,high,low,10,name.com,,,
 18c18c29-ab13-4879-a9d9-1510382cbf25,beard.phd,premium,115.7,115.7,high,low,5,namecheap,,,22/09/2026 21:01
 fb06b0ff-d497-484c-a6ed-5f9c76d1f07c,inexorable.phd,available,25.98,29.98,medium,low,10,namecheap,,,
@@ -39,11 +45,13 @@ bb39c0db-33b1-4673-bff6-e1636292a45c,ashlar.phd,available,25.98,29.98,high,low,6
 bcde6c72-8d07-449d-bd3b-3ca43e621380,toon.phd,premium,63.7,63.7,high,low,4,namecheap,,,19/09/2026 09:01
 59a8b07d-4541-4811-9521-f2db9e074b6b,prosecution.phd,available,26.99,,high,low,11,name.com,,,
 ee118892-ffa4-4764-a7fc-5668502cd294,evident.phd,premium,61.25,61.25,high,low,7,name.com,,,06/08/2026 05:13
+6f35d8b6-77e4-477a-8740-58a0212aba70,gallatin.phd,available,20.2,20.2,medium,low,8,cloudflare,,,28/09/2026 22:22
 d969b576-06cb-4cd8-842f-5de9e9ef78bc,professor.phd,premium,198.75,,high,low,9,name.com,,,
 0dd3c54e-6fe4-4fc3-9ab6-c8a50442f175,pally.phd,available,25.98,29.98,high,low,5,namecheap,,,12/08/2026 07:42
 aca6658d-d294-4596-a68d-0b8971d88c1e,analyzable.phd,available,25.98,29.98,medium,low,10,namecheap,,,
 9dce0b24-c5cf-4373-9e50-9c37fc735b55,airdock.phd,available,25.98,29.98,medium,low,7,namecheap,,,17/09/2026 23:04
 f0062337-5749-4f96-8ac2-c4fd3835c9df,hemp.phd,premium,198.75,198.75,high,low,4,name.com,,,24/09/2026 12:04
+be3a78c6-fcf9-4662-abfa-aa9a2bb89a8e,tre.phd,premium,340.72,340.72,high,low,3,spaceship,,,29/09/2026 02:48
 8ba2a413-4f60-467e-a5cd-26b95c19af46,judith.phd,premium,50.92,50.92,high,low,6,spaceship,,,28/09/2026 05:18
 ef91cded-88cc-430e-b684-1a5b58a0dad0,cliche.phd,available,25.98,29.98,high,low,6,namecheap,,,23/09/2026 16:07
 fba51114-46f6-4925-9132-20423a8c4cb3,evergreen.phd,premium,111.25,111.25,high,low,9,name.com,,,17/08/2026 14:53
@@ -68,7 +76,7 @@ d52cbdd0-f913-4cd4-afb4-06dfd5581089,jiang.phd,premium,63.7,63.7,high,low,5,name
 18dad371-2b98-4a7f-b01c-a521ef9930fc,outdoorsy.phd,available,25.98,29.98,high,low,9,namecheap,,,04/09/2026 19:14
 b35f9f89-39a1-4796-bcf8-8ab16578ace9,quack.phd,available,25.98,29.98,high,low,5,namecheap,,,09/09/2026 07:16
 6fe8ed9e-1e29-4cdf-b499-868e1829acae,top.phd,premium,1688.7,1688.7,high,medium,3,namecheap,,,25/09/2026 19:45
-42dfbf65-60b4-4470-b112-8d3c705ca830,appeal.phd,premium,61.25,,high,low,6,name.com,,,
+42dfbf65-60b4-4470-b112-8d3c705ca830,appeal.phd,premium,63.7,63.7,high,low,6,namecheap,,,28/09/2026 21:53
 90a82b93-5562-4853-98d5-e78998d80f69,babinski.phd,available,25.98,29.98,medium,low,8,namecheap,,,21/09/2026 12:44
 fe863ed7-6737-49d0-9be7-17ab4646f9e8,neighboring.phd,available,26.99,,high,low,11,name.com,,,
 426e7650-879e-4e66-a755-0fdb9f9b7973,flagfish.phd,available,25.98,29.98,medium,low,8,namecheap,,,18/09/2026 19:58
@@ -80,6 +88,7 @@ e019bfd6-a48a-49a2-a561-94ceeba55899,fizzle.phd,available,25.98,29.98,medium,low
 7d8e9842-607a-4363-952f-9550b5326e01,devotional.phd,available,25.98,29.98,high,low,10,namecheap,,,14/08/2026 05:15
 fe0191ea-4b93-4fc2-a973-0ce320e43472,bifurcated.phd,available,25.98,29.98,medium,low,10,namecheap,,,09/08/2026 20:24
 f6472a7d-6dd7-42a2-97bd-6905f685dbbf,dishonesty.phd,available,26.99,,medium,low,10,name.com,,,
+8cb418b3-c5f2-406d-9f19-b6ee065cedf7,handwriting.phd,available,25.98,29.98,medium,low,11,namecheap,,,28/09/2026 12:30
 c953c6e7-115d-4228-a02e-05b148d6325f,puissant.phd,available,25.98,29.98,medium,low,8,namecheap,,,09/09/2026 05:53
 529f4563-98f4-485d-be0a-be11ab655fb2,gibbs.phd,available,25.98,29.98,high,low,5,namecheap,,,25/09/2026 06:33
 fa7d7b5b-0b9f-4ddc-ae4f-2099f029d7a2,lissom.phd,available,25.98,29.98,medium,low,6,namecheap,,,23/08/2026 23:41
@@ -87,24 +96,29 @@ df489a51-56dd-4108-807a-323e2a91f7fa,shallot.phd,available,25.98,29.98,medium,lo
 75cc79a8-ac92-4c1e-9c24-757524712259,associated.phd,premium,54.02,54.02,medium,low,10,porkbun,,,28/09/2026 08:17
 44bca96f-ba50-490f-953f-5a0b54941060,jungle.phd,premium,427.7,427.7,high,low,6,namecheap,,,25/09/2026 07:25
 43c064bd-8265-4096-87df-737f2d230412,wifely.phd,available,25.98,29.98,medium,low,6,namecheap,,,13/09/2026 00:27
+77839dbe-2455-4f39-aeeb-4c012ebdf622,mumbai.phd,premium,329.2,,medium,low,6,unstoppable,,,29/09/2026 00:13
 a6cbebb1-2585-451b-8258-eb6fd25e9446,conceptive.phd,available,25.98,29.98,medium,low,10,namecheap,,,12/08/2026 20:03
 eff73d99-ff0a-4124-a68f-8bdf0f712fc6,emulator.phd,available,25.98,29.98,medium,low,8,namecheap,,,19/09/2026 16:28
 4f14675b-e1e9-4aa3-a9d1-a278372a6775,anunnaki.phd,available,25.98,29.98,medium,low,8,namecheap,,,19/09/2026 15:51
 1c8d7d5a-2b39-449f-a738-9cf2b21d77f2,charlie.phd,premium,206.7,206.7,high,medium,7,namecheap,,,25/09/2026 18:14
 990f2007-2576-4a3f-9a46-0b128df206c8,picky.phd,available,25.98,29.98,high,low,5,namecheap,,,18/08/2026 05:00
 ffe9718f-4d84-44e6-bfe4-d74fe7da73e2,dipylon.phd,available,25.98,29.98,medium,low,7,namecheap,,,14/08/2026 08:43
+29bc1356-3933-4925-acd7-58217c697cf3,homeland.phd,premium,63.7,63.7,medium,low,8,namecheap,,,28/09/2026 09:28
 98df8a66-1364-49a0-8c17-aabd93faa1cf,peeled.phd,available,25.98,29.98,medium,low,6,namecheap,,,08/08/2026 18:24
 8c6a4ebf-70dc-4732-97b3-97d5fed0a1ba,skating.phd,premium,,,high,low,7,,,,28/09/2026 03:06
 3e7f7d8d-678a-4e39-b89a-584a8983f4ba,beatrice.phd,available,25.98,29.98,high,low,8,namecheap,,,22/09/2026 21:46
+05879685-5dbc-4aff-8646-3b5f327b7e7b,accuse.phd,available,20.84,20.84,medium,low,6,spaceship,,,29/09/2026 02:41
 7621d706-17d2-48fd-8c18-08627da70992,pinkish.phd,available,25.98,29.98,high,medium,7,namecheap,,,08/09/2026 19:46
 ae327979-c724-438c-93b1-b77000d45e66,terse.phd,available,25.98,29.98,medium,low,5,namecheap,,,22/08/2026 18:16
 79bab8c5-e6eb-43b1-b926-a42c0012a51c,philippines.phd,available,,,high,high,11,,,,
 8db19a52-505c-45d8-9cfc-464819a7b062,gainfully.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/09/2026 20:58
 bfb439f0-9554-4f61-8ea4-bcd405001001,psychologist.phd,available,,,high,low,12,,,,
+1014120c-1d18-4b3b-bbf7-67c1970ef5ae,convertible.phd,available,20.84,20.84,medium,low,11,spaceship,,,28/09/2026 15:45
 0284c1fd-81ac-42de-a7f1-f2f52eb7a8b8,worried.phd,available,25.98,29.98,high,low,7,namecheap,,,24/09/2026 11:23
 74f4ed91-083a-45a7-95eb-24ce7e07cb6f,harmful.phd,available,25.98,29.98,medium,low,7,namecheap,,,08/09/2026 09:32
 a538d40b-7ef3-48f0-a5f6-b3105540c368,finished.phd,available,25.98,29.98,high,low,8,namecheap,,,24/09/2026 18:27
-a0c75b7a-d8a6-42aa-b5d6-0f1d64a742f0,useless.phd,premium,61.25,,medium,low,7,name.com,,,
+a0c75b7a-d8a6-42aa-b5d6-0f1d64a742f0,useless.phd,premium,50.92,50.92,medium,low,7,spaceship,,,28/09/2026 10:02
+82a037f1-5e0e-4a7c-88ce-05296eb11b56,scissors.phd,available,25.98,29.98,high,low,8,namecheap,,,28/09/2026 20:05
 09949fe8-f5da-4ef6-8b1f-7eaf16e52360,difficulty.phd,available,26.99,,high,low,10,name.com,,,
 730425e5-8643-41a3-9d33-2006db7bb223,jim.phd,premium,811.25,811.25,high,low,3,name.com,,,
 f1dde892-5aff-4060-b5de-c2ca06af10de,humorless.phd,available,25.98,29.98,medium,low,9,namecheap,,,21/08/2026 15:23
@@ -113,18 +127,20 @@ d3015921-bad7-4d4f-b266-4f7bea3c1753,flew.phd,available,26.99,,high,low,4,name.c
 50333ac0-790d-4a9b-972c-3313cdc327ea,preteen.phd,available,25.98,29.98,high,medium,7,namecheap,,,09/09/2026 01:08
 0d4a4827-4408-462e-a52d-20a4e8adbaa7,ass.phd,premium,811.25,811.25,high,low,3,name.com,,,09/08/2026 12:05
 10c41a2b-9a2c-4a03-887a-3067cd1709fe,shareholders.phd,available,25.98,29.98,medium,low,12,namecheap,,,17/09/2026 15:53
+7fe28e04-12e8-4d7c-b239-8d7a806996d3,navigator.phd,premium,50.92,50.92,high,medium,9,spaceship,,,28/09/2026 19:58
 f7443afa-3fd7-488c-a8fc-c0052ec0d371,badge.phd,premium,115.7,115.7,high,low,5,namecheap,,,19/09/2026 15:56
 b60de142-e065-47d5-ad3b-403dd17779ec,scandent.phd,available,25.98,29.98,medium,low,8,namecheap,,,09/09/2026 22:32
 64a7d2ae-2ef6-4379-a628-3d15f0ab311a,sami.phd,premium,115.7,115.7,high,medium,4,namecheap,,,09/09/2026 21:06
 b5794f75-6262-470f-aac8-dc1d60cc6264,substitution.phd,available,26.99,,high,low,12,name.com,,,
-ae3b376e-bbcf-4bd1-99bc-e385b4ff0924,wrongful.phd,available,26.99,,medium,low,8,name.com,,,
+ae3b376e-bbcf-4bd1-99bc-e385b4ff0924,wrongful.phd,available,20.84,20.84,medium,low,8,spaceship,,,28/09/2026 11:11
+499a1ff9-6fea-480f-b708-09df6acd13d5,imply.phd,available,25.98,29.98,high,low,5,namecheap,,,29/09/2026 00:48
 f92a222c-35f7-4856-8749-f33a894687eb,reported.phd,available,20.84,20.84,high,low,8,spaceship,,,27/09/2026 11:56
 c309d977-b018-4a9b-a973-f24ed9cc7443,avionics.phd,available,25.98,29.98,high,low,8,namecheap,,,21/09/2026 09:35
 9bd4fde0-00b0-4359-addb-19055a3a5c08,scars.phd,available,25.98,29.98,medium,low,5,namecheap,,,20/09/2026 11:02
 fecc2478-c44e-4c95-9b70-3decfa6b12fe,atrophy.phd,available,25.98,29.98,high,low,7,namecheap,,,13/09/2026 12:50
 1421071a-f344-4331-805f-abfdc9f5e93b,stagey.phd,available,25.98,29.98,medium,low,6,namecheap,,,10/09/2026 18:06
 d29d43ac-4fdb-4ae7-8d1c-138ebab45900,credulous.phd,available,25.98,29.98,medium,low,9,namecheap,,,13/08/2026 05:56
-8fae55b8-19ec-47f4-ac86-5fcdc5275f64,dairy.phd,premium,115.7,115.7,high,low,5,namecheap,,,26/09/2026 00:42
+8fae55b8-19ec-47f4-ac86-5fcdc5275f64,dairy.phd,premium,92.32,92.32,high,low,5,spaceship,,,28/09/2026 22:44
 652ea2b7-ddb3-456a-bf6c-df8a253d969e,unaged.phd,available,25.98,29.98,medium,low,6,namecheap,,,12/09/2026 00:11
 ffe8419b-89c0-4fa1-ba28-aa082bff178e,stacey.phd,premium,49.2,,medium,low,6,unstoppable,,,28/09/2026 07:44
 9e663c04-3613-4d94-be01-7f922d6e1494,talismanic.phd,available,25.98,29.98,medium,low,10,namecheap,,,11/09/2026 07:30
@@ -147,6 +163,7 @@ e1bdd4e3-9a2b-4079-9080-8a319effe742,hugely.phd,available,25.98,29.98,medium,low
 04e3787a-8edd-4709-99a2-afb9d59cedb8,cash.phd,premium,843.7,843.7,high,medium,4,namecheap,,,25/09/2026 04:05
 b0debc64-ccb0-4c1d-a48c-6e8098f2b050,gown.phd,premium,97.68,97.68,high,low,4,porkbun,,,28/09/2026 05:51
 28eddcf3-fe88-4cfd-9305-845dd9c3d3be,uncordial.phd,available,25.98,29.98,medium,low,9,namecheap,,,12/09/2026 06:13
+7e7537e4-767a-46fe-822f-949dabc253e7,jackets.phd,premium,174.1,174.1,medium,low,7,porkbun,,,28/09/2026 18:08
 5fa7f22a-e2a2-4a11-8e9f-07260d575f47,employment.phd,premium,198.75,,high,low,10,name.com,,,
 b7f140fe-3ab2-4889-9fca-33d7ef30c429,twins.phd,premium,115.7,115.7,high,medium,5,namecheap,,,25/09/2026 06:26
 ae3e1874-afc7-4265-ac9e-bed11db7ecb2,rejection.phd,available,26.99,,medium,low,9,name.com,,,
@@ -161,6 +178,7 @@ c413eb3d-c8c9-49b2-b4d4-6b807f1f319a,disparity.phd,available,26.99,,medium,low,9
 be267b88-6c5d-4b76-a4fd-e257b3924e7b,electric.phd,premium,411.25,411.25,high,low,8,name.com,,,24/09/2026 13:44
 051f7b08-56e7-434a-9240-b870b8d7cb31,dispersed.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/08/2026 11:56
 36bdf791-1074-4fec-a069-dccf1793e3c6,rimmed.phd,available,25.98,29.98,medium,low,6,namecheap,,,09/09/2026 17:45
+f0a5aea9-661d-40f6-8ee3-b1ecaa01a570,devastating.phd,available,20.2,20.2,medium,low,11,cloudflare,,,28/09/2026 11:24
 e45ffa05-8ab3-4de7-8532-9e52b9d1ef3f,extent.phd,premium,115.7,115.7,high,low,6,namecheap,,,28/09/2026 05:39
 3d3dd495-cdd5-466a-aeb3-ef3e16c38dc1,malaysian.phd,available,25.98,29.98,high,low,9,namecheap,,,24/08/2026 13:46
 0a5a0ca4-9153-461a-b856-a40126540c9b,betel.phd,available,25.98,29.98,medium,low,5,namecheap,,,23/09/2026 11:05
@@ -180,10 +198,11 @@ cc32e94a-a037-4c2d-8e3a-dc36f5f47def,upc.phd,premium,111.25,,high,low,3,name.com
 89bd242c-0e3c-460a-9ff1-200263e43f0c,acrobat.phd,available,25.98,29.98,high,medium,7,namecheap,,,17/09/2026 03:17
 d9f93032-eb9a-4c49-ab07-ae46e99cd682,apsis.phd,available,25.98,29.98,medium,low,5,namecheap,,,19/09/2026 22:40
 2b46266f-6404-4cb3-8abb-3a9c769a3a20,liqueur.phd,available,25.98,29.98,high,low,7,namecheap,,,13/08/2026 01:02
+1f0dd0e1-8d49-44df-83a4-56128518415d,kilkenny.phd,available,20.2,20.2,medium,low,8,cloudflare,,,29/09/2026 03:59
 4a1c52a3-0974-41ba-9c0a-e68f06f0b90c,banksia.phd,available,25.98,29.98,high,low,7,namecheap,,,22/09/2026 02:53
 66844473-4527-4dc7-ba00-26792d0b2068,weaned.phd,available,25.98,29.98,medium,low,6,namecheap,,,13/09/2026 08:53
 e78f27d9-2a37-49a0-b399-051344bed4ae,leftist.phd,available,25.98,29.98,medium,low,7,namecheap,,,12/08/2026 17:05
-3cdf26d2-4eb5-4831-adaa-6c1706a7c30c,bce.phd,premium,111.25,,high,low,3,name.com,,,
+3cdf26d2-4eb5-4831-adaa-6c1706a7c30c,bce.phd,premium,111.25,,medium,low,3,name.com,,,28/09/2026 13:14
 869bd8a5-844f-4ee0-9e83-ce68986ebf82,activeness.phd,available,25.98,29.98,medium,low,10,namecheap,,,17/09/2026 05:11
 940a9991-0512-4bc6-af1e-87371f28adea,eviction.phd,available,25.98,29.98,high,low,8,namecheap,,,24/09/2026 17:35
 02c34b8f-168b-44af-9f15-a3efc1fd3e5d,rudolph.phd,available,25.98,29.98,high,low,7,namecheap,,,25/09/2026 14:11
@@ -199,11 +218,13 @@ e806f224-c417-4997-b01e-78c6e1d68067,fourteenth.phd,available,25.98,29.98,high,l
 4ecb90c8-88f2-4164-b4d5-96963c913b6f,florence.phd,premium,92.32,92.32,high,low,8,spaceship,,,28/09/2026 05:43
 8a72ba54-1ec5-4683-82c1-7d69daca9c0f,amplifier.phd,available,25.98,29.98,high,low,9,namecheap,,,18/09/2026 23:40
 edaec819-d2b6-4e16-8551-3838559e84d6,walkabout.phd,available,26.99,,high,low,10,name.com,,,
+2e0c814a-b9e9-43a7-8a4c-1b793cebea3f,protector.phd,premium,,,high,low,9,,,,28/09/2026 13:52
 94e30539-cd75-45d5-956a-0ecb9b3a7868,salmagundi.phd,available,25.98,29.98,medium,low,10,namecheap,,,25/08/2026 08:22
 03d0ab60-a835-44aa-bd65-05b9f538716e,ruined.phd,available,20.2,20.2,high,low,6,cloudflare,,,27/09/2026 16:41
 9a94bdb3-17e9-4f43-8cf8-934f9b6e5aae,molded.phd,available,25.98,29.98,medium,low,6,namecheap,,,25/08/2026 03:46
 fb0b53a8-56e8-45b5-84a6-386518bef30e,poverty.phd,premium,61.25,,medium,low,7,name.com,,,
 bd92e3a1-836d-4b7b-b5ae-75298304a01e,forepart.phd,available,25.98,29.98,medium,low,8,namecheap,,,18/08/2026 16:13
+167dabeb-9638-4468-a320-951f5c4082a6,tomatoes.phd,available,20.84,20.84,medium,low,8,spaceship,,,28/09/2026 12:33
 ce309f2d-e5de-4afb-bd6b-db0cc9acbedf,distantly.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/09/2026 13:17
 1ef28e28-79ad-4038-b102-4592f1597270,review.phd,premium,843.7,843.7,high,medium,6,namecheap,,,
 54c02a74-c2b5-463d-b148-1f17cfc6ba87,wriggling.phd,available,25.98,29.98,medium,low,9,namecheap,,,13/09/2026 13:41
@@ -212,12 +233,14 @@ e8feb4ab-7531-4245-a893-01411ef3f1f6,reversed.phd,available,20.84,20.84,high,low
 3ead1de3-196b-447a-9c4b-b519377b5c9d,peaty.phd,available,25.98,29.98,medium,low,5,namecheap,,,08/09/2026 11:28
 4d6f2440-f452-47e9-8f86-0312dfc1e314,obeisance.phd,available,25.98,29.98,high,medium,9,namecheap,,,10/08/2026 23:35
 77668775-5e73-49a9-b981-2b498276be79,diva.phd,premium,411.25,,high,low,4,name.com,,,
+0f400477-bfdf-418a-99c6-eb9658ce810e,venue.phd,premium,,,high,low,5,,,,29/09/2026 01:38
 65e65109-e6b0-42a4-b23f-609fbec56332,abiding.phd,available,25.98,29.98,high,low,7,namecheap,,,21/09/2026 13:52
 664abb3a-a65c-4cbc-8fe9-cf8c4218b737,unpassable.phd,available,25.98,29.98,medium,low,10,namecheap,,,21/08/2026 21:49
 3506ed38-02ad-44b1-85ff-0ba452500756,stargazer.phd,available,25.98,29.98,high,low,9,namecheap,,,20/09/2026 18:07
 cdd9f0c6-7292-4ce9-8904-a73ccfef8535,reaching.phd,available,25.98,29.98,high,low,8,namecheap,,,20/09/2026 09:16
 8efcbdd4-cd69-4c3e-b805-f478b1f1d2c5,overcome.phd,available,25.98,29.98,high,low,8,namecheap,,,28/09/2026 05:30
 41e8a2c2-79b7-4005-8514-ad07f4668d4d,ara.phd,premium,115.7,115.7,high,low,3,namecheap,,,19/09/2026 23:23
+76218a72-f9d3-4ef7-b647-c81149ad47dd,emblems.phd,available,20.2,20.2,medium,low,7,cloudflare,,,28/09/2026 18:24
 ee0588f8-ca0f-42f9-ad86-eecbb24ce0af,goliath.phd,available,25.98,29.98,high,low,7,namecheap,,,23/09/2026 03:22
 5efd6bc8-af61-4cf2-ba00-c0c9cc2f8e9e,promoter.phd,premium,61.25,,high,low,8,name.com,,,
 2b4fbb8b-f356-4927-a0dc-73e2a99986ab,worker.phd,premium,206.7,206.7,high,low,6,namecheap,,,27/09/2026 07:18
@@ -240,7 +263,7 @@ cad528f8-335a-40e3-8046-bb949633327d,acerate.phd,available,25.98,29.98,medium,lo
 b5ab1351-fa72-4695-b939-2a5d83e26c32,adar.phd,available,25.98,29.98,medium,low,4,namecheap,,,17/09/2026 06:32
 88df48b3-9136-40af-bcd9-36426c27d11a,abcs.phd,available,25.98,29.98,high,low,4,namecheap,,,16/09/2026 14:38
 8e1b56dc-242a-4b0a-b912-5d09c401af32,kendall.phd,premium,115.7,115.7,high,low,7,namecheap,,,25/09/2026 05:14
-33416047-1587-4765-9959-c48d083a56a9,pope.phd,premium,111.25,,high,low,4,name.com,,,
+33416047-1587-4765-9959-c48d083a56a9,pope.phd,premium,111.25,,high,low,4,name.com,,,28/09/2026 20:19
 2a8d3583-cce7-4c72-9d0b-a353b679a2a3,gaming.phd,premium,811.25,,high,low,6,name.com,,,
 c9f2254f-9a3c-43f3-aafb-d4eb174d39bd,shows.phd,premium,843.7,843.7,high,low,5,namecheap,,,18/09/2026 14:42
 beca8cc4-7122-45b7-b044-1f5dab68a486,announcement.phd,available,26.99,37.99,high,low,12,name.com,,,26/09/2026 00:47
@@ -257,6 +280,7 @@ e92e9638-9ef3-44a8-acb5-349950486683,aroused.phd,available,25.98,29.98,high,low,
 1df293bc-fcd7-4d63-9487-018629de9ccc,glow.phd,premium,198.75,198.75,high,medium,4,name.com,,,20/08/2026 15:11
 b6fee8d0-73de-49b5-905d-48ce87713a04,median.phd,premium,63.7,63.7,high,low,6,namecheap,,,25/09/2026 18:47
 4e52cb5f-8f78-4aaa-b051-ca592a120ef4,awing.phd,available,25.98,29.98,medium,low,5,namecheap,,,08/08/2026 00:34
+6e80a9a2-4b1c-4988-a320-4aa32814f46f,wiggins.phd,available,20.84,20.84,high,low,7,spaceship,,,28/09/2026 16:37
 3db900eb-911f-4390-9b8d-8b943f2ce9ef,hoodlum.phd,available,25.98,29.98,high,medium,7,namecheap,,,09/09/2026 06:04
 a01acbdc-b6c3-4755-aaf0-d31ac26e2985,unprovable.phd,available,25.98,29.98,medium,low,10,namecheap,,,12/09/2026 17:29
 6dd1bad3-1f5c-451f-b0fd-3760ce16f845,whitefish.phd,available,26.99,,medium,low,10,name.com,,,
@@ -291,15 +315,18 @@ ed135405-b699-404e-a610-1a700f9f7ddf,bioethics.phd,available,25.98,29.98,high,lo
 63a7180b-a03e-4fbe-b959-3de13fd22088,lucidly.phd,available,25.98,29.98,medium,low,7,namecheap,,,15/09/2026 12:12
 1bd89871-5367-4df4-a483-5c53da440d93,honored.phd,available,25.98,29.98,high,low,7,namecheap,,,17/08/2026 13:25
 978b69cd-a588-4716-8c4d-fe78ceb057a7,certify.phd,available,25.98,29.98,high,low,7,namecheap,,,24/08/2026 15:04
+6c4cd9bb-8122-4634-9a00-c0011cd4d4ae,puberty.phd,available,20.2,20.2,high,low,7,cloudflare,,,29/09/2026 02:00
 a7216485-3183-4349-923e-ff4d0e9d5890,dwindling.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/08/2026 21:48
 3e1fd431-9ab3-4ef6-8996-bfdabba3c433,abrasive.phd,available,25.98,29.98,high,low,8,namecheap,,,
 665c228c-0f4e-4b82-8be3-328f105f7ed1,countries.phd,premium,111.25,,medium,low,9,name.com,,,
+03d91b48-69ef-4e8b-9c23-56082fc7741b,claws.phd,available,20.84,20.84,medium,low,5,spaceship,,,28/09/2026 17:19
 5baf370e-8f64-430d-a7be-1c9528f6bbbf,thomas.phd,premium,843.7,843.7,high,medium,6,namecheap,,,25/09/2026 04:57
 d7996206-7951-44b5-a9cf-58c452253dce,saman.phd,available,25.98,29.98,high,low,5,namecheap,,,18/09/2026 03:12
 d3e5d966-5fa8-4340-82f9-8cb98b1a06d1,proactive.phd,premium,63.7,63.7,high,low,9,namecheap,,,27/09/2026 06:56
 0967cc6a-19d9-4c28-af0f-5443a9a4e13d,spacetravel.phd,available,26.99,,high,low,12,name.com,,,
 6f4e7536-f37a-4712-8c3e-834acd63e8d5,bishopric.phd,available,25.98,29.98,medium,low,9,namecheap,,,23/09/2026 21:59
-71d4b01b-4e5c-4ffb-b683-d0428f40ce24,machines.phd,premium,427.7,427.7,medium,low,8,namecheap,,,27/09/2026 02:01
+56b831c2-40db-486c-ba5e-6f98e65cdaed,lizzie.phd,available,20.84,20.84,high,low,6,spaceship,,,28/09/2026 11:45
+71d4b01b-4e5c-4ffb-b683-d0428f40ce24,machines.phd,premium,340.72,340.72,medium,low,8,spaceship,,,29/09/2026 03:31
 3d7205c2-30d1-423d-aa49-f87c0e5648b4,idler.phd,available,25.98,29.98,medium,low,5,namecheap,,,14/08/2026 14:10
 4344d4bb-f14e-482c-86af-d31c777adc44,cretin.phd,available,25.98,29.98,medium,low,6,namecheap,,,21/08/2026 20:26
 92f9efe5-d07e-40b3-ad2c-0b0a219c6b1d,sabin.phd,available,25.98,29.98,medium,low,5,namecheap,,,18/09/2026 02:37
@@ -307,6 +334,7 @@ f0a32bf9-c2b3-4ef1-837d-19626bc67b75,quieted.phd,available,25.98,29.98,medium,lo
 76483b7c-a377-44a6-a906-a9db815dd3d8,packs.phd,premium,206.7,206.7,medium,low,5,namecheap,,,20/09/2026 13:29
 d3831535-58b6-4e7a-9a63-7ff0550469c7,polonium.phd,available,25.98,29.98,medium,low,8,namecheap,,,20/09/2026 23:54
 aa6fe287-76c7-4780-97ae-27e97bd3f147,lift.phd,premium,206.7,206.7,high,low,4,namecheap,,,03/09/2026 17:40
+aca9644f-caad-46f5-b731-a49d64361e43,summon.phd,available,20.84,20.84,high,low,6,spaceship,,,29/09/2026 01:42
 a39a04e9-209f-4a4f-bda3-9fd30fb9ceb1,imitative.phd,available,25.98,29.98,medium,low,9,namecheap,,,13/08/2026 03:34
 439c7f38-bfbc-4467-b637-a377148005b6,inmost.phd,available,25.98,29.98,medium,low,6,namecheap,,,22/08/2026 05:51
 76f1976b-e4de-4587-8eb1-a2f5d1dd5df3,pianissimo.phd,available,25.98,29.98,high,medium,10,namecheap,,,08/09/2026 19:27
@@ -323,6 +351,7 @@ a7deaa73-5d3a-4481-8b14-1a0169adfb96,grossly.phd,available,25.98,29.98,medium,lo
 15edf62f-0391-4bac-ac2e-bdb1218513f7,bestial.phd,available,25.98,29.98,medium,low,7,namecheap,,,09/08/2026 17:57
 dce7c01b-32b2-48d0-8261-7c05d4f8603e,malicious.phd,available,25.98,29.98,medium,low,9,namecheap,,,24/08/2026 14:02
 7ab1bece-f5e8-4c20-8283-1d316106849d,viatical.phd,available,25.98,29.98,medium,low,8,namecheap,,,13/09/2026 05:03
+83fb320d-6bba-4273-8d26-95e9e42ad87f,patty.phd,available,20.84,20.84,high,low,5,spaceship,,,28/09/2026 20:09
 d6ea4451-de0a-4871-a50d-b1dea9025166,anchorage.phd,available,25.98,29.98,high,low,9,namecheap,,,19/09/2026 03:43
 71ac3e8c-b7d2-4bb5-9a56-b739d9bb273f,seldom.phd,available,25.98,29.98,high,low,6,namecheap,,,15/09/2026 22:34
 f7e87ccb-851d-4e66-93ce-1ee0026abe91,mackay.phd,premium,63.7,63.7,medium,low,6,namecheap,,,25/09/2026 16:20
@@ -330,21 +359,24 @@ e781ef44-e0b6-4b8c-913e-a3cbd8d75339,selfmade.phd,available,25.98,29.98,high,low
 d2c8ac75-60ce-4b0f-b001-4462a6d00b24,galvanic.phd,available,25.98,29.98,medium,low,8,namecheap,,,18/08/2026 19:44
 b59bda99-320e-4571-8719-df7608601143,carpal.phd,available,25.98,29.98,high,low,6,namecheap,,,11/08/2026 19:34
 babd3e70-e2a5-4b18-99e0-4b64f0d84fa0,cams.phd,premium,206.7,206.7,medium,low,4,namecheap,,,20/09/2026 11:30
-5667072f-84d0-44b0-a263-10337171e7d4,grip.phd,premium,111.25,,high,low,4,name.com,,,
+b40fef64-8f25-4a38-b734-3ed4361795cc,glucose.phd,available,25.98,29.98,high,low,7,namecheap,,,29/09/2026 01:05
+5667072f-84d0-44b0-a263-10337171e7d4,grip.phd,premium,92.32,92.32,high,low,4,spaceship,,,28/09/2026 18:31
 54ece2ec-892e-4197-9252-dc9338bf292f,capricious.phd,available,25.98,29.98,medium,low,10,namecheap,,,11/08/2026 18:04
 909c4ee8-3a5a-45c0-8b95-08689e8725ee,clogged.phd,available,25.98,29.98,medium,low,7,namecheap,,,12/08/2026 06:41
 8238b52a-da71-4def-adf0-026d8c804325,prevailing.phd,available,25.98,29.98,high,medium,10,namecheap,,,09/09/2026 01:27
+d9a855b7-dcc3-49a7-ba83-aace449b2c32,convoy.phd,available,27,,medium,low,6,unstoppable,,,28/09/2026 13:45
 76904906-4bb9-4f6c-bf69-5d8ad3347101,disrepute.phd,available,25.98,29.98,medium,low,9,namecheap,,,24/09/2026 22:34
 e1302968-dde0-4dea-9e38-9afb0fcc2e35,adviseable.phd,available,26.99,,high,low,10,name.com,,,
 4512e115-5464-422e-b654-a9144896ff27,cfa.phd,premium,89.2,,high,low,3,unstoppable,,,28/09/2026 03:42
 85bd2b88-a3e1-4742-92f9-981232709eab,bap.phd,premium,115.7,115.7,high,low,3,namecheap,,,22/09/2026 03:20
 19cb8cb3-911e-4755-8e0e-c5d597df756d,argentine.phd,available,,,high,high,9,,,,
-8b45a25d-f1fe-4c00-a804-b18973d15b73,frequently.phd,available,26.99,,high,low,10,name.com,,,
+8b45a25d-f1fe-4c00-a804-b18973d15b73,frequently.phd,available,27,,medium,low,10,unstoppable,,,28/09/2026 14:57
 ee9c63ef-285f-4c44-8ffc-82fbadb3ae09,radioactivity.phd,available,26.99,,medium,low,13,name.com,,,
 db17d15a-6cc4-46f4-9543-994b5fd6f7d9,vigor.phd,premium,61.25,,high,low,5,name.com,,,
 1a8f9310-b6f7-4a53-a74a-93bc9c817c44,confiding.phd,available,25.98,29.98,high,low,9,namecheap,,,12/08/2026 20:45
 17ed2e34-f9ec-45cb-ac0c-248df8f8e9e7,backstay.phd,available,26.99,37.99,medium,low,8,name.com,,,21/09/2026 16:03
 f78068d3-b02e-43bf-942d-599f44377268,meals.phd,premium,115.7,115.7,high,low,5,namecheap,,,18/09/2026 16:02
+e42557a1-12e7-4279-8de3-29c1a3c03c54,tapping.phd,available,27,,high,low,7,unstoppable,,,28/09/2026 20:35
 dcaca516-5dbe-4e6c-a747-fef5b8b58c27,raptor.phd,premium,115.7,115.7,high,low,6,namecheap,,,23/09/2026 20:17
 7bb2b27d-1a83-408b-ab56-cf2ac507b19c,rubberise.phd,available,25.98,29.98,high,medium,9,namecheap,,,09/09/2026 19:14
 597bafb2-83e4-4d79-b356-9212d2857d35,potassium.phd,available,25.98,29.98,high,low,9,namecheap,,,20/09/2026 22:30
@@ -354,6 +386,7 @@ cb349663-4a10-43e2-9a8e-77ebe53ff9ed,skyline.phd,premium,206.7,206.7,high,low,7,
 01b3e7b5-eafd-4d01-9c3f-62d5e6962652,stabbing.phd,available,25.98,29.98,medium,low,8,namecheap,,,22/08/2026 19:19
 238c9691-42b7-48b4-8d1d-91414f5ddef8,adequate.phd,available,25.98,29.98,high,low,8,namecheap,,,21/09/2026 18:22
 abd7c670-30ac-4c36-a5b7-f321829ea4d3,trapped.phd,available,25.98,29.98,medium,low,7,namecheap,,,07/08/2026 11:08
+9f00119e-aa1e-4639-9257-cb25e02f144e,pei.phd,premium,,,medium,low,3,,,,28/09/2026 14:30
 e0aff853-561d-456e-84b5-500ea5a98260,ironical.phd,available,25.98,29.98,medium,low,8,namecheap,,,22/08/2026 10:06
 db6844c1-f7bc-4d54-a182-3ed7753994b8,grapefruit.phd,available,25.98,29.98,high,low,10,namecheap,,,24/09/2026 15:09
 1575bcd4-9ecc-420b-a0fc-8531a38fd743,insincere.phd,available,25.98,29.98,medium,low,9,namecheap,,,22/08/2026 07:08
@@ -361,18 +394,22 @@ bba5e0aa-5d77-499d-b503-1d64faa71fc6,stubby.phd,available,25.98,29.98,high,low,6
 33fc4f36-9d65-48b2-8e04-7f3e81897dd9,moosewood.phd,available,25.98,29.98,medium,low,9,namecheap,,,16/09/2026 23:36
 80bf2a3b-945f-4bf4-9992-d901798f0f13,recognise.phd,available,20.84,20.84,high,low,9,spaceship,,,28/09/2026 06:55
 1b528f5b-5fd2-4953-806c-fc0182a62ec7,woodruff.phd,available,25.98,29.98,medium,low,8,namecheap,,,20/09/2026 15:04
-e475845f-2803-4108-9ae9-82b649f97dd3,ideally.phd,available,26.99,,high,low,7,name.com,,,
+8f7268db-d0d1-4abc-9bef-703de831bd8a,sailors.phd,available,20.2,20.2,medium,low,7,cloudflare,,,28/09/2026 13:06
+cad65352-c7ea-481e-a292-82c4195fdf12,napoleon.phd,premium,50.92,50.92,medium,low,8,spaceship,,,28/09/2026 13:35
+e475845f-2803-4108-9ae9-82b649f97dd3,ideally.phd,available,20.2,20.2,medium,low,7,cloudflare,,,28/09/2026 15:16
 398f91a3-ade4-4921-b9e8-8576581ae8bf,amaranthus.phd,available,25.98,29.98,medium,low,10,namecheap,,,18/09/2026 15:51
 91428100-8b8d-4528-a082-74955a706646,eclat.phd,available,25.98,29.98,high,low,5,namecheap,,,16/09/2026 22:37
 bcc4b899-daa8-4df1-a357-5843944de724,mercurial.phd,available,25.98,29.98,high,low,9,namecheap,,,17/08/2026 12:50
 05a5c55d-535b-4b8c-8113-420ba0efd808,comes.phd,premium,206.7,206.7,high,low,5,namecheap,,,17/09/2026 22:46
 13f1bedb-c4ba-4b44-8d1f-4775bfae0dd2,ourselves.phd,available,25.98,29.98,medium,low,9,namecheap,,,27/09/2026 08:55
+bc60906d-dc4d-4b20-baca-0abe696ead1f,tenant.phd,premium,50.92,50.92,high,low,6,spaceship,,,28/09/2026 20:19
 9bcc90ca-6c62-4267-a7de-70d0ecfa2c9e,poured.phd,available,26.99,37.99,medium,low,6,name.com,,,18/09/2026 02:28
 760ac396-e5bf-4a12-9925-3504739f7981,oratorical.phd,available,25.98,29.98,high,low,10,namecheap,,,04/09/2026 17:30
 669cb865-0ada-49e3-9f78-3f4b68dcd9bc,educated.phd,available,25.98,29.98,high,low,8,namecheap,,,24/09/2026 13:27
 70f8ab07-6117-42f8-9df1-6cc7d96f63ce,aeneas.phd,available,25.98,29.98,medium,low,6,namecheap,,,17/09/2026 12:27
 754f35fb-38ae-4d03-ba53-fe6916437152,dogged.phd,available,25.98,29.98,medium,low,6,namecheap,,,14/08/2026 14:54
 80ca768e-3a47-4ba9-901f-c56728221791,bigwig.phd,available,25.98,29.98,high,low,6,namecheap,,,23/09/2026 15:30
+c9b2e2d3-acd3-4d82-be8c-7a0219011ea7,condemned.phd,available,20.2,20.2,medium,low,9,cloudflare,,,28/09/2026 17:15
 3f1f31a4-826c-49c3-a0b9-0886cc854ca0,somesing.phd,available,26.99,,medium,low,8,name.com,,,
 e66dad07-8e74-4286-8dfe-638b9f4e1b30,comparing.phd,available,25.98,29.98,high,low,9,namecheap,,,24/09/2026 16:45
 1bf647c6-9e36-4301-8e73-3841e1cfda4d,hendricks.phd,available,20.2,20.2,medium,low,9,cloudflare,,,28/09/2026 08:45
@@ -390,6 +427,7 @@ e1d331a6-f552-4aa3-99cf-b8a432b649b9,cheaper.phd,premium,89.2,,low,low,7,unstopp
 bbff4b59-b714-4179-8c10-c38c66efa334,occurred.phd,available,25.98,29.98,medium,low,8,namecheap,,,18/09/2026 13:50
 a3166f0f-8918-4e32-a43d-68d251bc1802,defile.phd,available,25.98,29.98,medium,low,6,namecheap,,,24/08/2026 12:53
 8bceaf52-151c-48df-8dd9-9f4d834e8341,watched.phd,available,25.98,29.98,high,low,7,namecheap,,,18/09/2026 01:33
+891df178-7f24-44fb-8e02-e309f6b5bb67,schenectady.phd,available,20.84,20.84,medium,low,11,spaceship,,,28/09/2026 12:25
 77451ae8-c84d-44bb-b343-39062932512b,phage.phd,available,25.98,29.98,medium,low,5,namecheap,,,21/09/2026 16:31
 ab840369-2573-4baf-bc23-9c95a8ea72ca,roller.phd,premium,198.75,,high,low,6,name.com,,,
 e53d8e59-2293-404c-9681-86909389f1e7,papered.phd,available,25.98,29.98,medium,low,7,namecheap,,,21/09/2026 10:14
@@ -421,6 +459,7 @@ dce848fe-5167-47c7-99a5-43c0cb37547c,dickensian.phd,available,25.98,29.98,medium
 2ec09707-c317-4d48-a5e2-8efe554d19d7,somersault.phd,available,25.98,29.98,high,low,10,namecheap,,,18/08/2026 08:25
 504f879c-0734-4ce3-9f22-748999dea333,balcony.phd,available,25.98,29.98,high,low,7,namecheap,,,21/09/2026 21:28
 7196b352-8750-467b-ae3c-ac5075b5c76d,fda.phd,premium,115.7,115.7,high,low,3,namecheap,,,25/09/2026 05:55
+6c140174-28e5-433a-ac62-7b6222a270a9,roles.phd,available,20.84,20.84,medium,low,5,spaceship,,,28/09/2026 21:41
 408bfb9f-cc02-465b-9528-3bf3f0e42921,perceptive.phd,available,25.98,29.98,high,low,10,namecheap,,,08/09/2026 16:12
 db25334f-0032-4295-83a8-d5e7203b1196,simone.phd,premium,115.7,115.7,high,low,6,namecheap,,,27/09/2026 07:19
 d7fc2ebc-7cf6-4242-bc3d-31b2df450127,titled.phd,available,25.98,29.98,high,low,6,namecheap,,,13/08/2026 01:50
@@ -467,6 +506,7 @@ a884e8ce-a46b-482d-bba3-10fd7b3112a6,unveil.phd,available,26.99,,high,low,6,name
 16acdd1e-04ea-4bd1-b994-975872103c6f,transexual.phd,available,25.98,29.98,medium,low,10,namecheap,,,11/09/2026 19:01
 77184386-c8a1-43d0-8576-5dce035505a8,shameless.phd,available,25.98,29.98,medium,low,9,namecheap,,,10/09/2026 05:53
 ea30fb16-2752-495b-b7e5-ab89ef4999b3,epiphyte.phd,available,25.98,29.98,medium,low,8,namecheap,,,17/09/2026 13:14
+11f1c7b1-ca72-4896-a3a3-35a516d3912e,plagued.phd,available,20.2,20.2,medium,low,7,cloudflare,,,29/09/2026 03:23
 b4d4d6d6-cb5e-4998-83bb-427548cb6b5c,vhs.phd,premium,115.7,115.7,high,low,3,namecheap,,,16/09/2026 06:26
 bc435f31-e682-4cc2-b706-26e0f5a0f9a6,dew.phd,premium,111.25,,high,low,3,name.com,,,
 c8205629-db3d-4a9c-a628-230db18f7e67,send.phd,premium,811.25,,high,low,4,name.com,,,
@@ -474,8 +514,9 @@ df5b0291-27b5-4d17-a7a1-bc69728e0ddc,weeklong.phd,available,25.98,29.98,medium,l
 8938a7f4-20d6-468a-a066-c6bbab4921a0,paternal.phd,available,25.98,29.98,high,low,8,namecheap,,,
 dcb0d989-0640-4db6-972f-142293c75b50,uss.phd,premium,115.7,115.7,high,low,3,namecheap,,,25/09/2026 13:39
 0b60c3e7-3e34-4677-8ff0-b2f47ecde6ba,abbot.phd,available,25.98,29.98,medium,low,5,namecheap,,,16/09/2026 14:31
+49c50142-e43c-4e4f-8957-b898734bae1d,shades.phd,premium,427.7,427.7,high,low,6,namecheap,,,28/09/2026 18:53
 7ce58430-9123-4491-a8ac-ccf45e08185e,deft.phd,available,25.98,29.98,high,low,4,namecheap,,,13/08/2026 23:50
-d00be505-021a-495b-a34d-ea7385eedad9,job.phd,premium,1623.75,,high,low,3,name.com,,,
+d00be505-021a-495b-a34d-ea7385eedad9,job.phd,premium,1299.2,,high,medium,3,unstoppable,,,29/09/2026 03:34
 4908211b-e1c1-47a1-a89e-4dc88fff41d5,kinglike.phd,available,25.98,29.98,medium,low,8,namecheap,,,22/08/2026 16:19
 7ef4c641-8bd1-40fe-a91d-f86025ae8fa6,crimson.phd,premium,61.25,61.25,high,low,7,name.com,,,22/09/2026 22:28
 b1c297b0-db69-4bc8-8a5a-d59bb1d58be3,louisa.phd,available,25.98,29.98,medium,low,6,namecheap,,,25/09/2026 14:44
@@ -487,6 +528,7 @@ a47800ed-75db-4f55-b253-b77d483c0338,asthenia.phd,available,25.98,29.98,medium,l
 5ed92d1c-e03c-44c7-b657-090b98cbe178,serving.phd,premium,115.7,115.7,high,low,7,namecheap,,,25/09/2026 23:06
 e46d2adc-d4e3-4e61-953f-292a61189fc4,drearily.phd,available,25.98,29.98,medium,low,8,namecheap,,,14/09/2026 13:12
 364793d1-de20-4fd2-9780-be0e66940d0b,hampton.phd,premium,115.7,115.7,high,low,7,namecheap,,,25/09/2026 06:48
+3093ed7a-233c-47f8-8212-bb46a1618936,sts.phd,premium,,,high,low,3,,,,28/09/2026 11:46
 02cfe20b-fe7a-479b-9725-919924f0bbf5,topology.phd,available,25.98,29.98,high,low,8,namecheap,,,19/09/2026 01:59
 51f9ea85-9f3c-4233-8431-0145008f4554,hoping.phd,available,26.99,37.99,high,low,6,name.com,,,25/09/2026 11:50
 0e672481-e8e2-4bc7-9917-6d96e86eddf8,reclaimed.phd,available,25.98,29.98,high,low,9,namecheap,,,09/09/2026 11:36
@@ -495,9 +537,11 @@ a84d5f00-257e-406d-90ff-c70d06fe2130,bluish.phd,available,25.98,29.98,high,low,6
 09d003b2-16a6-4208-8b6a-def8a7d0bdde,curling.phd,available,25.98,29.98,high,low,7,namecheap,,,13/08/2026 11:21
 ce00b4e3-d7cd-45e5-b681-47829cfd747f,flickering.phd,available,25.98,29.98,high,low,10,namecheap,,,
 e6756f08-99c2-40a6-b6b9-e4fcb27df8f1,acinar.phd,available,25.98,29.98,medium,low,6,namecheap,,,
+e460f3a0-9689-4ac0-b824-e4c8e3e774f9,warwickshire.phd,available,20.2,20.2,medium,low,12,cloudflare,,,29/09/2026 03:43
 d6f2a576-ba55-4886-9f0e-68462a8fbf98,slugs.phd,available,25.98,29.98,medium,low,5,namecheap,,,20/09/2026 08:54
 cf2ebfd1-6921-4fa3-ad04-8d67d6b769b4,notional.phd,available,25.98,29.98,high,low,8,namecheap,,,12/08/2026 20:01
 3fc91eb6-14ef-4b5f-870f-bcaec7bf55cd,clunk.phd,available,25.98,29.98,medium,low,5,namecheap,,,11/09/2026 15:10
+4320cd9c-00d1-475f-8119-984bed45ffd4,morale.phd,available,27,,medium,low,6,unstoppable,,,28/09/2026 19:07
 12255755-6544-4bb9-b627-ddbfb5d30621,pirate.phd,premium,411.25,,high,low,6,name.com,,,
 b32eb5b3-d1d5-4985-a516-57daf3f42510,appointee.phd,available,25.98,29.98,medium,low,9,namecheap,,,19/09/2026 21:58
 74156112-bc9a-4dee-9e29-fe64cac8a88e,inversion.phd,available,25.98,29.98,high,low,9,namecheap,,,19/09/2026 03:24
@@ -508,14 +552,17 @@ b32eb5b3-d1d5-4985-a516-57daf3f42510,appointee.phd,available,25.98,29.98,medium,
 6172a2d8-5ae5-4051-beca-709c3f198b46,valorous.phd,available,25.98,29.98,medium,low,8,namecheap,,,13/09/2026 00:57
 753bc514-68d4-4c59-b600-047e337fdb7d,tag.phd,premium,843.7,843.7,high,medium,3,namecheap,,,24/09/2026 13:51
 f6be4f33-640c-4d2e-9f58-cc6916ac2b81,insist.phd,available,26.99,,high,low,6,name.com,,,
+8f6280b2-c405-4578-bda6-4f58216557df,federalist.phd,available,20.84,20.84,medium,low,10,spaceship,,,28/09/2026 19:11
 08e0cee0-98f7-4dee-a8a2-4ff86fe5a134,jung.phd,premium,115.7,115.7,high,low,4,namecheap,,,25/09/2026 03:59
 f4e1a628-d887-4328-ada0-261970e8e170,alcoholism.phd,available,25.98,29.98,medium,low,10,namecheap,,,18/09/2026 04:06
 eee2d552-a941-4b2f-983d-dbf816e0c5fa,cloudiness.phd,available,25.98,29.98,medium,low,10,namecheap,,,04/09/2026 20:28
 04c77b21-4b9e-4b98-813a-ed0b02083431,stolen.phd,available,,,high,low,6,,,,26/09/2026 00:36
+fa36f123-7e4f-4da6-9cba-693c1d4eead3,settling.phd,available,27,,medium,low,8,unstoppable,,,28/09/2026 20:24
 82c4a949-4db0-4fc5-b9bd-dcc9dd325d1c,admittance.phd,available,25.98,29.98,high,low,10,namecheap,,,16/09/2026 22:13
 f9387485-a494-46d9-8fc3-a545e594c9d3,wary.phd,available,25.98,29.98,medium,low,4,namecheap,,,22/08/2026 22:32
 00fd8506-cc17-47c6-8b1a-3431ef870558,inspector.phd,premium,63.7,63.7,high,low,9,namecheap,,,25/09/2026 07:48
 8db1189b-1e0c-49ab-bca8-92c1af201810,irony.phd,available,25.98,29.98,high,low,5,namecheap,,,24/09/2026 13:17
+5b9ddb2b-5865-49bf-a4cc-dfbbf4dac265,resource.phd,premium,340.72,340.72,high,low,8,spaceship,,,28/09/2026 20:20
 9a83612a-e432-4c6d-99cb-3530de7b26a7,gamble.phd,premium,206.7,206.7,high,low,6,namecheap,,,17/09/2026 10:37
 e83492e3-5193-4667-ac77-b37a02f86974,holland.phd,premium,,,high,low,7,,,,28/09/2026 02:07
 c1a1b44f-036f-4f75-8e01-6b4e3e5d2ced,relating.phd,available,26.99,,high,low,8,name.com,,,
@@ -529,7 +576,7 @@ f7b13ce2-2c5c-4187-81a6-70c2f68dc895,revolved.phd,available,25.98,29.98,medium,l
 4dc6e006-d460-4a66-b438-12d19ce1acfe,adansonia.phd,available,25.98,29.98,medium,low,9,namecheap,,,17/09/2026 06:21
 63193bb0-9e04-4ed8-93f2-b02cba5bf7d0,assiduity.phd,available,25.98,29.98,medium,low,9,namecheap,,,20/09/2026 16:21
 9a446239-6e7c-4bdf-aab4-3fd75eac67b0,apache.phd,premium,206.7,206.7,high,low,6,namecheap,,,19/09/2026 16:09
-a624fe94-ed37-4412-b06f-0438fde583c3,fashion.phd,premium,1623.75,,high,medium,7,name.com,,,
+a624fe94-ed37-4412-b06f-0438fde583c3,fashion.phd,premium,1418.59,1418.59,high,medium,7,porkbun,,,28/09/2026 16:44
 87f11230-f0e2-466d-bc5b-856eaa71e296,vicennial.phd,available,25.98,29.98,medium,low,9,namecheap,,,13/09/2026 05:23
 db0d330d-817c-4718-8342-fda43593cc05,benefice.phd,available,25.98,29.98,high,low,8,namecheap,,,23/09/2026 07:54
 1d0cdd41-0544-4f5f-b993-33270a25bcd0,balalaika.phd,available,26.99,37.99,medium,low,9,name.com,,,21/09/2026 20:48
@@ -538,11 +585,14 @@ ee9cb540-5c70-46d3-9569-802bf004afbb,acth.phd,available,25.98,29.98,medium,low,4
 c7f35c5d-d3ae-4bda-98a5-a71fe115b6a0,disrespect.phd,available,26.99,,high,low,10,name.com,,,
 1e74ef2c-849b-4880-8f71-2493842cec83,demanding.phd,available,25.98,29.98,high,low,9,namecheap,,,14/08/2026 01:06
 27901e19-5fde-4aa9-9dc7-8db737c9ffcc,gormless.phd,available,25.98,29.98,low,low,8,namecheap,,,18/08/2026 20:48
+3313054e-bff8-464b-b9f5-bd4a7dd23ef9,printer.phd,premium,671.92,671.92,high,low,7,spaceship,,,28/09/2026 15:08
+c5744743-cbaa-4efa-bb92-0fb99d7c9371,features.phd,premium,92.32,92.32,medium,low,8,spaceship,,,28/09/2026 12:52
 5d532e75-d933-47c9-b41d-7bfc32d99812,bracelet.phd,premium,111.25,111.25,high,low,8,name.com,,,22/09/2026 01:56
 e1c35c52-dd47-40fd-88c5-51c52f8be516,prairie.phd,premium,61.25,,high,low,7,name.com,,,
 c002ccd2-e318-4246-b722-7df663b1e0d4,turing.phd,premium,63.7,63.7,high,low,6,namecheap,,,18/09/2026 01:45
 923aa2b7-0fec-415e-b977-a26afdeac8f7,cohen.phd,premium,115.7,115.7,high,low,5,namecheap,,,27/09/2026 03:21
 17f76adb-6158-4009-95dd-95362a45570d,wayfaring.phd,available,25.98,29.98,medium,low,9,namecheap,,,13/09/2026 08:47
+23b4308a-aecd-43fa-8560-0facd48fdc29,barracks.phd,available,20.84,20.84,medium,low,8,spaceship,,,28/09/2026 13:08
 a0350279-4393-42e4-982b-746c5855856a,unsexy.phd,available,25.98,29.98,medium,low,6,namecheap,,,12/09/2026 19:23
 de5ff81d-08dd-443f-a67f-398d18812ae0,assign.phd,available,25.98,29.98,high,low,6,namecheap,,,21/09/2026 02:19
 5ee16698-cf76-48dd-986f-dad1dca9ebbf,unlit.phd,available,25.98,29.98,medium,low,5,namecheap,,,12/09/2026 13:03
@@ -572,6 +622,7 @@ ae769b5b-3f9b-439e-ba40-9dd390da5858,groggy.phd,available,25.98,29.98,medium,low
 fe787b57-939c-412c-97e5-b4f9418606d2,after.phd,premium,843.7,843.7,high,low,5,namecheap,,,21/09/2026 22:16
 e1489921-74f2-41c6-a1e2-c3f215fd12db,crate.phd,premium,63.7,63.7,high,low,5,namecheap,,,24/09/2026 19:07
 dc2f976f-3380-4b43-8081-de9aa8ffe6f1,vaned.phd,available,25.98,29.98,medium,low,5,namecheap,,,13/09/2026 01:06
+72d2ea61-fec8-4332-b1ba-3de66c761563,participation.phd,available,20.84,20.84,medium,low,13,spaceship,,,28/09/2026 22:50
 c13ab121-e81c-4db4-ace8-0beca6cfce94,gary.phd,premium,115.7,115.7,high,low,4,namecheap,,,25/09/2026 06:21
 4418ed96-c636-44be-95c6-f2bd90f0d29b,macleod.phd,available,39.99,39.99,medium,low,7,godaddy,,,28/09/2026 02:12
 c99ca947-bd60-4014-b5d3-06a69aeca9dc,hearing.phd,premium,206.7,206.7,high,low,7,namecheap,,,24/09/2026 23:40
@@ -590,8 +641,10 @@ a59ae672-3b8c-415f-9ff8-6cf3a7db291a,roving.phd,available,25.98,29.98,high,low,6
 41e6c5d5-2eb9-42e0-a4ab-880ace29a74b,siliceous.phd,available,25.98,29.98,high,medium,9,namecheap,,,10/09/2026 08:07
 683a600e-08f8-43e2-9d50-830591a53a25,dreamed.phd,available,20.84,20.84,medium,low,7,spaceship,,,27/09/2026 21:44
 ba0bcd2f-e8c3-412e-9264-a18ba8e91e94,framework.phd,premium,198.75,198.75,high,low,9,name.com,,,25/08/2026 02:30
+0af83be4-8036-4349-a4cd-0e49159d9b85,easiest.phd,available,20.84,20.84,medium,low,7,spaceship,,,28/09/2026 23:51
 34833814-de35-4fb3-9a56-cfa05798861a,generations.phd,premium,61.25,61.25,medium,low,11,name.com,,,17/09/2026 19:20
-ac31e4c1-3d32-43f1-bd56-5083dbb8a1ba,longest.phd,available,26.99,,high,low,7,name.com,,,
+a28573af-8292-4d67-9abd-3e179685b332,permits.phd,available,20.84,20.84,medium,low,7,spaceship,,,28/09/2026 23:51
+ac31e4c1-3d32-43f1-bd56-5083dbb8a1ba,longest.phd,available,20.84,20.84,medium,low,7,spaceship,,,28/09/2026 16:14
 99d3e890-31a4-4175-a468-cc41560047bf,mickey.phd,premium,206.7,206.7,high,low,6,namecheap,,,25/09/2026 09:22
 91e2df3e-ce9b-498a-b4bd-52c4cee05a14,mimosa.phd,premium,63.7,63.7,high,low,6,namecheap,,,16/09/2026 20:07
 29823ab6-1522-450d-a397-75f2d1b4a750,grugru.phd,available,25.98,29.98,medium,low,6,namecheap,,,17/09/2026 03:33
@@ -601,7 +654,7 @@ e3f59f9a-81e4-43d5-a2de-4d2f9cb4a276,afterwards.phd,available,25.98,29.98,medium
 97a95bb4-3537-4cea-911e-2a1e6ca03e76,arguably.phd,available,25.98,29.98,medium,low,8,namecheap,,,13/09/2026 20:45
 47a40211-8b02-4617-8ac3-6e6c73c1f5cb,alta.phd,premium,206.7,206.7,high,low,4,namecheap,,,25/09/2026 13:59
 13d37f04-70a8-4448-b94e-4853593bc713,marketing.phd,premium,843.7,843.7,high,medium,9,namecheap,,,28/09/2026 06:40
-313bcc21-b313-4af5-9613-8fd156e500d1,satan.phd,premium,61.25,,high,low,5,name.com,,,
+313bcc21-b313-4af5-9613-8fd156e500d1,satan.phd,premium,61.25,,high,low,5,name.com,,,29/09/2026 01:53
 f8a599bb-d913-4c02-a14a-3e018a959c04,drying.phd,available,25.98,29.98,high,low,6,namecheap,,,16/09/2026 09:24
 74d800d2-9fa8-48e2-ba67-f481b2e9ee34,grisly.phd,available,25.98,29.98,medium,low,6,namecheap,,,18/08/2026 23:15
 4382c093-b64b-479b-9093-e2439532de39,hundredth.phd,available,25.98,29.98,high,low,9,namecheap,,,
@@ -629,9 +682,9 @@ c6b0eece-7886-4473-81ac-904e55dfdf82,nih.phd,premium,92.32,92.32,high,low,3,spac
 fff64136-ecd0-4eb5-bf79-0e42a6cdfc58,switching.phd,available,20.2,20.2,high,low,9,cloudflare,,,28/09/2026 06:49
 025e851f-1dd9-4713-8fa9-3c798ebe573f,york.phd,premium,811.25,,high,low,4,name.com,,,
 55e8afb8-72ac-4c74-be00-0322cfe85132,ritardando.phd,available,25.98,29.98,high,medium,10,namecheap,,,09/09/2026 09:54
-e68f06e2-2bda-4e09-8c96-8cda7b22e4e0,west.phd,premium,811.25,,high,low,4,name.com,,,
+e68f06e2-2bda-4e09-8c96-8cda7b22e4e0,west.phd,premium,671.92,671.92,high,low,4,spaceship,,,28/09/2026 10:23
 862643d2-5301-4243-8d0b-2a126fdcfaba,saccade.phd,available,25.98,29.98,medium,low,7,namecheap,,,22/08/2026 12:47
-5976bf43-78bc-4e0b-8c86-6265421b6b19,billboard.phd,premium,61.25,,high,low,9,name.com,,,
+5976bf43-78bc-4e0b-8c86-6265421b6b19,billboard.phd,premium,50.92,50.92,high,low,9,spaceship,,,29/09/2026 02:43
 d8976152-bc15-4b21-9abe-d21ca67e3569,door.phd,premium,843.7,843.7,high,low,4,namecheap,,,19/09/2026 10:21
 90af25fd-7be7-40f4-87e5-b2043b0b62dd,chairman.phd,premium,61.25,,high,low,8,name.com,,,
 c51ebf63-16e5-4365-949d-0bf789876a1c,sideburns.phd,available,26.99,,high,low,9,name.com,,,
@@ -639,18 +692,20 @@ c51ebf63-16e5-4365-949d-0bf789876a1c,sideburns.phd,available,26.99,,high,low,9,n
 6d180414-2e44-439d-9c10-c437d1271076,bulldog.phd,premium,115.7,115.7,high,low,7,namecheap,,,24/09/2026 11:08
 dc9111b0-bc3c-4319-af4e-6ac748a9d6e9,slatey.phd,available,25.98,29.98,medium,low,6,namecheap,,,10/09/2026 10:21
 9eab6b2a-3593-491b-9c69-a1486ea7f011,quick.phd,premium,843.7,843.7,high,medium,5,namecheap,,,21/09/2026 23:09
+e3ef8d57-0ef8-49a1-b07e-1bfc8d8cef00,toronto.phd,premium,340.72,340.72,high,low,7,spaceship,,,29/09/2026 02:20
 ea614d82-9118-48b1-be8e-c7a6b724e316,alps.phd,premium,63.7,63.7,high,low,4,namecheap,,,18/09/2026 14:12
 c08b331d-cb37-4141-a178-cd530b3392ce,gilt.phd,premium,61.25,61.25,high,low,4,name.com,,,18/08/2026 23:34
 afef3a7d-948b-4e1e-8092-03a094da8593,baiting.phd,available,25.98,29.98,medium,low,7,namecheap,,,21/09/2026 19:58
 14dd09e0-4664-4f88-871e-b13bd3d6d55e,speciality.phd,available,25.98,29.98,high,low,10,namecheap,,,18/08/2026 12:32
 a5a370d2-bac5-4104-90cf-3026e3a9c1e8,formation.phd,premium,92.32,92.32,high,low,9,spaceship,,,28/09/2026 05:38
 6fc82f2a-5cff-4e11-8da2-d695031150b4,aspherical.phd,available,25.98,29.98,medium,low,10,namecheap,,,07/08/2026 04:57
-f2216ac6-4405-420a-94f5-79c8013e792a,product.phd,premium,843.7,843.7,high,medium,7,namecheap,,,25/09/2026 22:31
+f2216ac6-4405-420a-94f5-79c8013e792a,product.phd,premium,649.2,843.7,high,medium,7,unstoppable,,,28/09/2026 15:09
 b3b182f2-c9a8-4f1c-9e7f-eaa51fc55e37,cone.phd,premium,111.25,,high,low,4,name.com,,,
 debd8410-e0ac-45fd-94d8-067d6d4fe3ef,pyrrhic.phd,available,25.98,29.98,medium,low,7,namecheap,,,09/09/2026 07:12
 5c1812ad-1919-4857-9b4f-6d80a1976830,jen.phd,premium,92.32,92.32,high,low,3,spaceship,,,28/09/2026 03:57
 b6b7d075-c910-4a69-9ddb-1cf554c937a1,unflavored.phd,available,25.98,29.98,medium,low,10,namecheap,,,03/09/2026 19:15
 4ccb1727-109f-47fd-bde4-6769611a2b6a,horrify.phd,available,26.99,37.99,medium,low,7,name.com,,,18/09/2026 01:56
+627f7256-4a7e-47fa-9957-b43d8e66ea5e,countess.phd,available,25.98,29.98,medium,low,8,namecheap,,,28/09/2026 13:48
 e6db46df-995f-4b1f-898f-b50ffb8424c3,adolescent.phd,available,25.98,29.98,high,low,10,namecheap,,,21/09/2026 19:03
 482beb2b-07f5-447b-a5fa-4d7a82058d68,aristocrat.phd,available,25.98,29.98,high,low,10,namecheap,,,20/09/2026 05:51
 abb8ff66-b862-4ff5-84d7-01e036ef3fc4,chinese.phd,premium,811.25,811.25,high,low,7,name.com,,,12/08/2026 05:43
@@ -661,7 +716,7 @@ c4a2b322-64ba-40ee-a6d8-72a771073f33,reviewers.phd,available,25.98,29.98,medium,
 d641c035-0d5a-407d-9a13-a602d9baa15f,broiled.phd,available,25.98,29.98,medium,low,7,namecheap,,,11/08/2026 05:19
 b0e8aa34-c09d-442f-aed3-22ae8b29e83d,battered.phd,available,25.98,29.98,medium,low,8,namecheap,,,22/09/2026 18:12
 31c600b7-2521-42c7-80e4-46dc4e649bad,adjustable.phd,available,25.98,29.98,high,low,10,namecheap,,,21/09/2026 18:40
-5adcbe29-cff0-4e53-836d-b5e4933b0158,belt.phd,premium,111.25,,high,low,4,name.com,,,
+5adcbe29-cff0-4e53-836d-b5e4933b0158,belt.phd,premium,92.32,92.32,high,low,4,spaceship,,,28/09/2026 13:21
 d333b034-43b1-4689-82bb-63b1f260b2f6,confused.phd,premium,61.25,61.25,high,low,8,name.com,,,07/08/2026 12:02
 b232af13-790c-4d34-9a3a-8e755596df6e,alveolar.phd,available,25.98,29.98,medium,low,8,namecheap,,,22/09/2026 02:54
 142f0962-2d06-4593-a21a-beb017afd9d0,norte.phd,premium,63.7,63.7,high,low,5,namecheap,,,27/09/2026 07:02
@@ -671,6 +726,7 @@ b232af13-790c-4d34-9a3a-8e755596df6e,alveolar.phd,available,25.98,29.98,medium,l
 56ab4fdd-5c19-447e-a54d-2fef7b7adf07,backs.phd,premium,63.7,63.7,medium,low,5,namecheap,,,18/09/2026 06:41
 83fbd8ee-68ef-4291-82c8-e1c35152f943,diverting.phd,available,25.98,29.98,medium,low,9,namecheap,,,
 d89881ef-9072-4b51-86eb-f7121799ed6f,stewardess.phd,available,26.99,37.99,high,low,10,name.com,,,17/09/2026 22:26
+9ff84bc3-273c-4592-8f34-79ced6377808,vilnius.phd,available,20.2,20.2,medium,low,7,cloudflare,,,28/09/2026 18:34
 c648becf-d778-41ef-861b-9dfe8c732279,checkbook.phd,available,26.99,37.99,high,low,9,name.com,,,24/09/2026 13:57
 b96a385e-23d5-4015-b48f-97f1744df9c8,antipodean.phd,available,25.98,29.98,medium,low,10,namecheap,,,
 4ed7481c-8c80-4d5d-b79a-b80c04fa48db,wandered.phd,available,25.98,29.98,medium,low,8,namecheap,,,18/09/2026 02:36
@@ -689,10 +745,12 @@ d2df3f68-b25b-4dad-a60a-f74dd38052a7,eternally.phd,available,25.98,29.98,high,lo
 985c32c0-5576-4682-b15c-25d9d2e1af98,oppressive.phd,available,25.98,29.98,medium,low,10,namecheap,,,04/09/2026 16:52
 e6eb5171-d847-4cac-aa0a-ff463911a231,goodwin.phd,premium,61.25,,high,low,7,name.com,,,
 9d0707f9-e830-46cc-b589-89b6b4cf20fd,sevener.phd,available,25.98,29.98,medium,low,7,namecheap,,,
+424917fa-67ab-4165-a225-f778a4b8d568,mayfield.phd,available,27,,medium,low,8,unstoppable,,,28/09/2026 12:21
 3ccf3206-91ec-4042-83d0-4216c4a40ab8,agora.phd,premium,427.7,427.7,high,medium,5,namecheap,,,17/09/2026 19:04
 81876b47-46ae-4ba1-b923-af7ffac51727,avicennia.phd,available,25.98,29.98,medium,low,9,namecheap,,,21/09/2026 09:24
 3f5d275a-03b5-4323-a1f4-2bd64d6b37df,quaternion.phd,available,25.98,29.98,medium,low,10,namecheap,,,
 d375eb99-c7e2-48da-b53c-dad78edc278e,prevent.phd,premium,198.75,,high,low,7,name.com,,,
+199245e2-75ca-4589-a6e4-78b467eacfd6,bonneville.phd,available,20.2,20.2,medium,low,10,cloudflare,,,28/09/2026 16:50
 94eca99b-de9b-4da7-804e-8c1828e169e5,boon.phd,premium,50.92,50.92,high,low,4,spaceship,,,28/09/2026 07:47
 4de23cd7-1a5a-422e-bbe9-7003d0f5b0ff,yao.phd,premium,97.68,97.68,medium,low,3,porkbun,,,28/09/2026 07:58
 e40270fa-6e60-4504-9e21-0a4eb77100ea,afflatus.phd,available,25.98,29.98,medium,low,8,namecheap,,,17/09/2026 14:39
@@ -705,11 +763,12 @@ f5af2723-9829-4819-bf0f-8f7c30fcccc6,venal.phd,available,25.98,29.98,medium,low,
 a9acafd9-f3ee-4b17-9f2e-0f8084dae228,absinth.phd,available,25.98,29.98,medium,low,7,namecheap,,,16/09/2026 17:44
 f4ce14ac-810a-4b6a-947c-7776492e1da7,unlikeable.phd,available,25.98,29.98,medium,low,10,namecheap,,,12/09/2026 00:56
 e5a5d6dd-5840-4b1c-ad4b-c8cff6a47fd4,aden.phd,premium,63.7,63.7,medium,low,4,namecheap,,,17/09/2026 07:22
-51f01628-2d1f-4cbd-a417-fdc0e94b7a9b,thought.phd,premium,198.75,,high,low,7,name.com,,,
+51f01628-2d1f-4cbd-a417-fdc0e94b7a9b,thought.phd,premium,159.2,,high,low,7,unstoppable,,,28/09/2026 09:13
 b3a807bb-2ac2-464a-88d9-54d0698df135,chagrined.phd,available,25.98,29.98,medium,low,9,namecheap,,,
 6d89a17e-f7d8-40c3-a687-0c793ef58571,inbuilt.phd,available,25.98,29.98,high,low,7,namecheap,,,11/08/2026 08:08
 7eb1e642-beb2-4851-9177-d9d9d7615b5f,assize.phd,available,25.98,29.98,medium,low,6,namecheap,,,20/09/2026 16:30
 b9eda1a6-0a64-452d-a9ed-cf4e2030118e,yielding.phd,available,25.98,29.98,high,low,8,namecheap,,,13/09/2026 14:36
+aa0b1020-65c1-4d7c-9e70-db3b20491418,seating.phd,available,20.84,20.84,high,low,7,spaceship,,,29/09/2026 02:06
 d06b4bb2-3d4c-44b4-90d8-614e11b55b65,pieces.phd,premium,115.7,115.7,medium,low,6,namecheap,,,17/09/2026 19:58
 f789271d-79d0-441a-94c1-0b9ba7615344,resinlike.phd,available,25.98,29.98,medium,low,9,namecheap,,,09/09/2026 15:11
 4ad60815-758c-4daf-bcc1-fc163592d4fe,mechanized.phd,available,25.98,29.98,medium,low,10,namecheap,,,19/09/2026 16:26
@@ -719,6 +778,7 @@ ebe20599-e500-4583-8812-84099e82e07c,petulant.phd,available,25.98,29.98,medium,l
 c7382b59-d10a-4fef-8e25-f2bac68f01c0,motional.phd,available,25.98,29.98,medium,low,8,namecheap,,,25/08/2026 07:22
 73bea219-38c7-462f-818d-639604f3df22,elapsed.phd,available,25.98,29.98,medium,low,7,namecheap,,,16/08/2026 00:41
 4e991fb6-e7fc-4e31-baf7-70ade58903ab,diabetic.phd,premium,61.25,61.25,high,low,8,name.com,,,14/08/2026 05:36
+9962ac72-865c-431f-b09e-6f232a9c60ca,collingwood.phd,available,20.2,20.2,medium,low,11,cloudflare,,,28/09/2026 12:17
 bd333729-a807-4bac-a517-223199c12c47,inelegant.phd,available,25.98,29.98,medium,low,9,namecheap,,,22/08/2026 03:44
 13f52155-7ae7-4787-8e74-79eb2fe60164,panicked.phd,available,25.98,29.98,medium,low,8,namecheap,,,05/09/2026 00:57
 87ba6372-3c1c-42cd-aa38-53887ccb6b27,blowzy.phd,available,25.98,29.98,low,low,6,namecheap,,,10/08/2026 15:41
@@ -731,18 +791,19 @@ b2f79439-aeef-4ada-8301-02faaddaacfd,molybdenum.phd,available,25.98,29.98,medium
 e28f4cda-75df-4bf0-b1ee-6dee3e8c3dec,elvish.phd,available,25.98,29.98,medium,low,6,namecheap,,,16/08/2026 03:43
 004a36e7-763d-46e1-bd9f-fcd0e3012482,pentium.phd,available,26.99,,high,low,7,name.com,,,
 166ef776-d964-4283-867e-6a40cf1ab878,definitive.phd,available,25.98,29.98,high,low,10,namecheap,,,12/08/2026 09:45
-e9cbfee0-36ae-4cee-a4da-59a0c8b3d2d7,thrown.phd,available,26.99,,medium,low,6,name.com,,,
+e9cbfee0-36ae-4cee-a4da-59a0c8b3d2d7,thrown.phd,available,27,,medium,low,6,unstoppable,,,28/09/2026 09:15
 046aa729-3b8c-4a84-844f-803785be10fc,emphasise.phd,available,25.98,29.98,high,low,9,namecheap,,,16/09/2026 21:53
 998a5f62-ac84-4d31-b138-6b8887501d95,calhoun.phd,available,25.98,29.98,medium,low,7,namecheap,,,27/09/2026 03:19
 e3a86f85-f506-448f-8c0f-22c1c3e9ddd9,fecund.phd,available,25.98,29.98,medium,low,6,namecheap,,,18/08/2026 00:34
 26432331-3125-4f48-89b6-b683537b180a,untouched.phd,available,25.98,29.98,high,low,9,namecheap,,,12/09/2026 13:20
 8f659607-91e0-49f8-a1c9-9660a665014c,meekly.phd,available,25.98,29.98,medium,low,6,namecheap,,,15/09/2026 01:24
 69c4afa9-96d2-4513-8a7a-d38bdc6a30e7,argus.phd,premium,63.7,63.7,high,low,5,namecheap,,,20/09/2026 04:53
+00ef875c-9464-4bb1-8463-ce67a5fe9bc9,scheduling.phd,premium,50.92,50.92,high,low,10,spaceship,,,29/09/2026 02:34
 29b6268d-2156-4c1d-bdab-9c803e6f12c4,pickings.phd,available,25.98,29.98,medium,low,8,namecheap,,,11/09/2026 07:21
 937bc5c4-5d04-457e-8221-cbfde3172af9,reporter.phd,premium,115.7,115.7,high,low,8,namecheap,,,25/09/2026 09:33
 6da1278b-49e8-4c60-b40a-e42498443aff,verse.phd,premium,111.25,,high,low,5,name.com,,,
 ee40a80c-ffe7-48e6-96c5-43a007617818,immanent.phd,available,25.98,29.98,high,low,8,namecheap,,,21/08/2026 20:50
-6754425c-e144-4ee7-a597-a525294ba0da,hacking.phd,premium,206.7,206.7,high,low,7,namecheap,,,25/09/2026 04:38
+6754425c-e144-4ee7-a597-a525294ba0da,hacking.phd,premium,206.7,206.7,medium,low,7,namecheap,,,28/09/2026 12:39
 8296484b-b726-4c58-a59d-105887f4609e,areca.phd,available,26.99,37.99,medium,low,5,name.com,,,20/09/2026 03:25
 699358c3-acda-4612-8aff-fbb63224d3e8,arranger.phd,available,25.98,29.98,medium,low,8,namecheap,,,17/09/2026 06:29
 8561e328-f8e0-4266-a8ce-debe1625437c,congressman.phd,available,25.98,29.98,high,low,11,namecheap,,,28/09/2026 04:59
@@ -750,7 +811,7 @@ ee40a80c-ffe7-48e6-96c5-43a007617818,immanent.phd,available,25.98,29.98,high,low
 f6b929aa-5c20-4408-a95c-31a219fbe815,frostbite.phd,available,25.98,29.98,high,low,9,namecheap,,,24/09/2026 19:56
 41300546-6df1-4c34-9e2a-d5dcc8a78fbd,owner.phd,premium,206.7,206.7,high,low,5,namecheap,,,25/09/2026 09:45
 8f045d94-1aef-41b9-9b15-04c787040f75,trilled.phd,available,25.98,29.98,medium,low,7,namecheap,,,09/09/2026 18:19
-583dda87-a6fd-4478-a167-ad742cca7eab,sloth.phd,premium,61.25,,high,low,5,name.com,,,
+583dda87-a6fd-4478-a167-ad742cca7eab,sloth.phd,premium,49.2,,high,low,5,unstoppable,,,28/09/2026 17:33
 fc217497-8f10-4d0f-8612-dc9da31d03a3,villain.phd,premium,115.7,115.7,high,low,7,namecheap,,,21/09/2026 16:58
 3f2d5859-44e8-47b0-b7c5-27a044687f62,wines.phd,premium,206.7,206.7,high,low,5,namecheap,,,18/09/2026 10:23
 81e4a48d-aa4b-4b51-bc46-ac685c21cadd,wharf.phd,available,26.99,,high,low,5,name.com,,,
@@ -768,35 +829,39 @@ d24f81d6-5582-4e1e-865b-dedefbc046a4,pompom.phd,available,25.98,29.98,medium,low
 c33296fa-8044-43f8-a93a-6c4b404bc68f,impeccably.phd,available,25.98,29.98,medium,low,10,namecheap,,,15/09/2026 02:11
 d9ecbc1b-6226-4fc0-a184-3140c98c3267,khakis.phd,available,26.99,,high,low,6,name.com,,,
 658df1c0-0cec-440a-a851-afcd3aeaa862,preciously.phd,available,25.98,29.98,high,medium,10,namecheap,,,09/09/2026 01:14
-6b1e040f-af38-495a-8ef9-a1f1ece38049,wellbeing.phd,premium,111.25,,high,low,9,name.com,,,
+6b1e040f-af38-495a-8ef9-a1f1ece38049,wellbeing.phd,premium,115.7,115.7,high,low,9,namecheap,,,28/09/2026 09:56
 afe3ed35-3f9a-4bcf-8066-a0df5012bbb6,decimal.phd,available,25.98,29.98,high,low,7,namecheap,,,13/08/2026 21:27
 ec008129-24b5-4f2c-833b-df86583c494f,engaging.phd,available,25.98,29.98,high,low,8,namecheap,,,28/09/2026 07:52
 90e29453-d774-440e-a2c6-d89dbe55e5e4,ease.phd,premium,,,high,low,4,,,,27/09/2026 13:14
 b4fbc182-510f-48ab-ac00-5430bca8745c,smashed.phd,available,25.98,29.98,medium,low,7,namecheap,,,09/08/2026 15:50
 b5a37d6e-6e75-4bf5-9d5a-f54ead05dae9,approx.phd,available,25.98,29.98,medium,low,6,namecheap,,,27/09/2026 02:29
+2c92c67c-d8a8-4695-a55c-4f771191031c,listing.phd,premium,340.72,340.72,high,low,7,spaceship,,,29/09/2026 01:23
 8a8370b1-fd3b-42cc-bac4-08030b00b76c,mansard.phd,available,25.98,29.98,medium,low,7,namecheap,,,24/08/2026 15:30
 257841e8-6ba3-4536-b59c-bcb409ba32c7,loveless.phd,available,25.98,29.98,medium,low,8,namecheap,,,24/08/2026 10:09
 b47233ca-c924-47ae-8d53-6884076e877a,nimitz.phd,available,25.98,29.98,medium,low,6,namecheap,,,17/09/2026 08:52
 72cb51e1-79dd-44c3-929b-a742f427e2a4,antonius.phd,available,25.98,29.98,medium,low,8,namecheap,,,19/09/2026 13:34
 65ae7b5f-9cf2-4318-aa2b-61bea1725cb0,airflow.phd,available,25.98,29.98,high,low,7,namecheap,,,17/09/2026 22:13
-2eb9efbf-2905-4e3f-83b3-11cc33447332,washington.phd,premium,411.25,,high,low,10,name.com,,,
+2eb9efbf-2905-4e3f-83b3-11cc33447332,washington.phd,premium,340.72,340.72,high,low,10,spaceship,,,28/09/2026 20:59
 0be771f5-b7ee-40e5-a9ad-e74a2974687d,things.phd,premium,811.25,,high,low,6,name.com,,,28/09/2026 05:47
 44ea35c6-188b-42ab-8942-51364c4c6e2e,drunken.phd,available,25.98,29.98,medium,low,7,namecheap,,,09/08/2026 19:02
 f1ac79d3-88af-4884-83b7-186794de35a0,ruandan.phd,available,25.98,29.98,high,medium,7,namecheap,,,09/09/2026 19:11
 f4252944-3eb3-4e42-854d-2c9f71b0ef4d,priests.phd,available,25.98,29.98,medium,low,7,namecheap,,,18/09/2026 03:38
 e165df3b-e73e-497e-ab96-3a6d740aa676,whatsoever.phd,available,25.98,29.98,medium,low,10,namecheap,,,22/09/2026 06:59
 d6802a48-3656-4a3c-9583-9052a47ebdc4,populate.phd,available,25.98,29.98,high,low,8,namecheap,,,24/08/2026 07:48
+d18f9715-893e-4067-831e-ffde7120b1c4,sedgwick.phd,available,20.84,20.84,medium,low,8,spaceship,,,28/09/2026 16:41
 5400e9f9-04fc-4758-92e4-628bb1aff26e,critter.phd,available,25.98,29.98,high,low,7,namecheap,,,24/09/2026 19:33
 69aee55a-ddd6-46f5-a17c-9c9b20dfa080,noise.phd,premium,198.75,,high,low,5,name.com,,,
 d87ce6d9-ae15-4b06-b6ba-9cdfeba69d55,audrey.phd,premium,206.7,206.7,high,low,6,namecheap,,,25/09/2026 14:38
 1ccc30f2-6a2a-4916-aae8-101570364a43,gig.phd,premium,89.2,,high,low,3,unstoppable,,,28/09/2026 05:44
 d4ebaac2-528c-469d-ba55-aa9dfc11a886,bill.phd,premium,843.7,843.7,high,low,4,namecheap,,,19/09/2026 17:00
 3eba4787-4305-49f9-bb13-e0998b1c3770,linnaean.phd,available,25.98,29.98,medium,low,8,namecheap,,,23/08/2026 16:38
+51feba31-bd24-47a3-ae13-d9cc4ad9e80f,unavailable.phd,available,27,,medium,low,11,unstoppable,,,29/09/2026 03:22
 b953b450-c755-4db5-a7a9-dbaf662f7059,rejoin.phd,available,26.99,,high,low,6,name.com,,,
 6c07e246-e3cf-4d11-80dc-9c40a2ba624b,visibly.phd,available,25.98,29.98,medium,low,7,namecheap,,,16/09/2026 11:04
 815262c9-4d70-4fa2-8336-f7378e200691,rolling.phd,premium,115.7,115.7,high,low,7,namecheap,,,19/09/2026 06:51
 084a8393-d225-48c9-83f1-5868b75bdd3a,airship.phd,available,25.98,29.98,high,medium,7,namecheap,,,14/08/2026 09:04
 f7d0ef74-d247-46f3-a81b-d8bb85e506d6,onstage.phd,premium,63.7,63.7,high,low,8,namecheap,,,16/09/2026 19:36
+17e40dec-a718-40e0-93c7-d1359d151bb2,whites.phd,premium,49.2,,high,low,6,unstoppable,,,28/09/2026 16:57
 a539b1b7-a2b7-407f-9c44-701510292a11,huntington.phd,premium,63.7,63.7,high,low,10,namecheap,,,25/09/2026 04:18
 a0719c5c-0c55-4f99-b11b-cddca9a4e595,actin.phd,available,25.98,29.98,medium,low,5,namecheap,,,17/09/2026 04:37
 28366c93-35c5-4ee3-96bf-41ba0336daab,biographer.phd,available,25.98,29.98,high,low,10,namecheap,,,23/09/2026 18:07
@@ -814,10 +879,12 @@ a27f2d1a-8aa9-46a8-ba6a-1872bc1606fc,blistering.phd,available,25.98,29.98,medium
 5bd54353-f407-4261-9047-7639aa46881d,sallow.phd,available,25.98,29.98,high,medium,6,namecheap,,,09/09/2026 20:56
 3bd462b9-502d-4e88-abff-01912e14bc7b,bestseller.phd,available,25.98,29.98,high,low,10,namecheap,,,23/09/2026 10:31
 ed57567f-5668-4dea-be3d-e2a1858bc674,vendor.phd,premium,89.2,,high,low,6,unstoppable,,,28/09/2026 02:42
+6a3da5c8-a7cd-4eb7-87ac-5f99ed13c1c0,commands.phd,available,27,,medium,low,8,unstoppable,,,28/09/2026 17:45
 3d630c07-d92b-4701-bf74-de9cba71988b,removing.phd,available,20.84,20.84,high,low,8,spaceship,,,28/09/2026 07:21
 96c66a5a-6e44-44c3-8df4-6ab5d22e66db,ambuscade.phd,available,25.98,29.98,medium,low,9,namecheap,,,24/08/2026 12:31
 82f8410a-9dca-4c92-b124-71b03cc0681c,summery.phd,available,25.98,29.98,high,low,7,namecheap,,,11/09/2026 01:38
 b20fa7fb-1275-4eec-8e3f-350f9e182864,qatari.phd,available,25.98,29.98,high,low,6,namecheap,,,22/08/2026 15:09
+3ade6394-1be8-477e-b83a-3b53b6a8be8a,spies.phd,available,27,,medium,low,5,unstoppable,,,28/09/2026 12:49
 b37b577d-b086-4bb1-97db-40bc7008fabd,anomalous.phd,available,25.98,29.98,high,low,9,namecheap,,,
 4737a5b6-cdd0-4122-a338-23d0b4f85f52,adman.phd,available,25.98,29.98,medium,low,5,namecheap,,,17/09/2026 08:40
 9712b523-1942-4b0a-8620-18e31ef4b9db,awesome.phd,premium,843.7,843.7,high,medium,7,namecheap,,,22/09/2026 15:04
@@ -828,7 +895,6 @@ b7024752-0248-444d-a434-5a7d12026a71,haphazard.phd,available,25.98,29.98,medium,
 e3396ae9-00c4-4e11-b188-fbdf65dae04f,recidivist.phd,available,25.98,29.98,medium,low,10,namecheap,,,21/09/2026 15:57
 395cb40c-cbef-44dc-b522-54bb65e1dc5d,fraudulent.phd,available,25.98,29.98,medium,low,10,namecheap,,,13/08/2026 21:10
 312dfb5f-e463-4811-a793-142a77c2b6a7,clove.phd,available,25.98,29.98,high,low,5,namecheap,,,24/09/2026 16:05
-78fa6735-bf25-440c-9d4a-888ff215670d,basis.phd,premium,198.75,,high,low,5,name.com,,,
 bfc95581-13a2-415d-89f9-eea6063fe26d,dionysia.phd,available,25.98,29.98,high,low,8,namecheap,,,21/09/2026 13:58
 01e8c6a5-9b30-42ee-8e63-ea801ce79304,easter.phd,premium,115.7,115.7,high,low,6,namecheap,,,24/09/2026 13:11
 7c7c7660-179d-47d8-98ab-82bc342626fd,knowledge.phd,premium,671.92,671.92,high,low,9,spaceship,,,28/09/2026 05:28
@@ -839,14 +905,16 @@ e770d9e6-8da3-423e-ba22-57d6c0e81c8f,errorless.phd,available,25.98,29.98,high,lo
 6cb859c8-6d7c-40dc-9f87-265e7df46325,ranked.phd,premium,61.25,61.25,high,low,6,name.com,,,20/08/2026 17:38
 7ac40970-4258-4663-b3e5-d354e87a4858,destroy.phd,premium,63.7,63.7,high,low,7,namecheap,,,25/09/2026 10:30
 b246a10d-78c0-41d4-82d1-6e4d9132338e,pitched.phd,available,25.98,29.98,high,medium,7,namecheap,,,08/09/2026 20:03
-d776a27f-344b-40a3-9b4f-d4d2d2f82f7a,staff.phd,premium,427.7,427.7,high,low,5,namecheap,,,25/09/2026 22:20
+d776a27f-344b-40a3-9b4f-d4d2d2f82f7a,staff.phd,premium,340.72,340.72,high,low,5,spaceship,,,28/09/2026 10:20
+73f43ade-98f8-4fbe-b31b-f5023d64ca75,thigh.phd,available,20.84,20.84,high,low,5,spaceship,,,29/09/2026 02:11
 df1beb61-264d-4b57-ba5d-bae421b498da,anshar.phd,available,25.98,29.98,medium,low,6,namecheap,,,19/09/2026 12:12
 01c30f48-fe1a-4c8d-a451-7a6dfd69ac6e,adoption.phd,premium,63.7,63.7,high,low,8,namecheap,,,17/09/2026 09:43
 950d71c3-d41e-455f-bdf3-e477f881d622,mooney.phd,available,20.84,20.84,high,low,6,spaceship,,,28/09/2026 03:44
 5aa17138-813b-40a7-a1c3-929ffa1136ae,godfrey.phd,available,26.99,37.99,high,low,7,name.com,,,25/09/2026 18:26
 75192c5b-1772-4980-b053-a4dc746d096a,crinkle.phd,available,25.98,29.98,medium,low,7,namecheap,,,13/08/2026 07:16
-717fd023-4e6f-4f09-bf8e-f7cd0b7de1c9,game.phd,premium,1688.7,1688.7,high,medium,4,namecheap,,,27/09/2026 01:48
-4b6b5451-1d76-499b-8134-70415e53c0ac,wrist.phd,premium,61.25,,high,low,5,name.com,,,
+717fd023-4e6f-4f09-bf8e-f7cd0b7de1c9,game.phd,premium,1688.7,1688.7,high,medium,4,namecheap,,,28/09/2026 20:55
+4b6b5451-1d76-499b-8134-70415e53c0ac,wrist.phd,premium,61.25,,high,low,5,name.com,,,28/09/2026 22:18
+6e8e4cee-2ef6-4776-8956-7fbd693b36d1,inherit.phd,available,25.98,29.98,high,low,7,namecheap,,,28/09/2026 20:51
 d700d5de-72b5-4995-a05d-181036699415,ayin.phd,available,25.98,29.98,high,low,4,namecheap,,,21/09/2026 10:38
 2c6cd184-d8ae-438c-af63-2268e3a3b471,coat.phd,premium,198.75,,high,low,4,name.com,,,
 d2ab8558-3d59-40b6-a716-d696e1ebbf8f,model.phd,premium,671.92,671.92,high,medium,5,spaceship,,,28/09/2026 02:57
@@ -863,6 +931,7 @@ b46b2c2f-ee1c-4241-8b9d-1772922a1e60,anodyne.phd,available,25.98,29.98,medium,lo
 5dd75e2c-8732-43ec-bc8f-a792d5af3852,comate.phd,available,25.98,29.98,low,low,6,namecheap,,,12/08/2026 18:20
 7ccde980-1a53-47ef-ab8c-889c872bdd6b,theocratic.phd,available,25.98,29.98,medium,low,10,namecheap,,,11/09/2026 12:52
 fccf5218-e7a7-4b54-bcfb-c00334948ad3,jenny.phd,premium,111.25,,high,low,5,name.com,,,
+ebc12a41-7d39-4d0d-b1ab-256a11e5b209,innovate.phd,premium,50.92,50.92,high,low,8,spaceship,,,29/09/2026 02:37
 f86746c8-41a8-47b2-92a4-a544348fae4d,atropos.phd,available,25.98,29.98,medium,low,7,namecheap,,,21/09/2026 01:01
 cb4ea913-50c3-4ce2-a680-28da3d33d569,domed.phd,available,25.98,29.98,high,low,5,namecheap,,,14/08/2026 15:37
 94de4bc3-3b61-4e2c-ba71-8f1863fc5008,runic.phd,available,25.98,29.98,medium,low,5,namecheap,,,09/09/2026 19:35
@@ -879,16 +948,21 @@ e30e41dd-f9bd-42c7-a6fb-4b2f6e2a33fa,chomsky.phd,available,25.98,29.98,medium,lo
 4e747a8c-0d1a-4d37-8dd9-70dc1027e108,rasmussen.phd,available,25.98,29.98,high,low,9,namecheap,,,28/09/2026 06:07
 b7c1ce24-6f58-4627-ab8b-c0d6d503bc39,cockup.phd,available,25.98,29.98,medium,low,6,namecheap,,,21/09/2026 23:29
 911a4b0b-3b28-4052-b606-ed1cf70243b0,solferino.phd,available,26.99,37.99,medium,low,9,name.com,,,22/09/2026 15:59
-c91cd681-cef3-4b55-a11f-a0446089f94c,won.phd,premium,111.25,,high,low,3,name.com,,,
+3042722d-2b2e-41bd-aee2-943458a5338b,angles.phd,premium,50.92,50.92,medium,low,6,spaceship,,,28/09/2026 16:57
+c91cd681-cef3-4b55-a11f-a0446089f94c,won.phd,premium,89.2,,high,low,3,unstoppable,,,28/09/2026 10:43
 103da270-d6d1-432d-8a0e-74e228e56fb9,inaugural.phd,available,25.98,29.98,high,low,9,namecheap,,,22/08/2026 00:37
 c00baf07-bc1c-4ea6-ae2e-f7d0b0ddac64,inaudible.phd,available,25.98,29.98,medium,low,9,namecheap,,,22/08/2026 00:33
 b507f5e0-e700-456d-87c8-6f02d4ee9ad7,clubbish.phd,available,25.98,29.98,low,low,8,namecheap,,,12/08/2026 12:59
 205ef4db-b30f-490f-9f23-dea5ff032f0c,polished.phd,available,25.98,29.98,high,low,8,namecheap,,,24/08/2026 23:10
+0e62967c-9b95-4a43-ab81-f04027440b20,peoples.phd,premium,89.2,,medium,low,7,unstoppable,,,29/09/2026 01:49
 37ce9b99-3468-4a53-a6f7-dfbf00656d41,deer.phd,premium,111.25,111.25,high,low,4,name.com,,,24/09/2026 13:40
 3d8562d4-fdb0-4d20-ac10-3037e4616908,maculate.phd,available,25.98,29.98,medium,low,8,namecheap,,,13/08/2026 23:26
+8869ab66-9a05-41c6-9f08-ce8208761ede,ratio.phd,premium,115.7,115.7,high,low,5,namecheap,,,28/09/2026 15:13
 b3b91f91-0761-44e6-98e5-7567c7e44cee,fitful.phd,available,25.98,29.98,medium,low,6,namecheap,,,18/08/2026 05:45
 d9b3c61e-0c7f-4601-bfaf-b4278c1d52c0,goddess.phd,premium,92.32,92.32,high,low,7,spaceship,,,27/09/2026 13:50
+e705bc30-281a-4fdc-8dc5-522bbbd4c32a,whittaker.phd,available,27,,medium,low,9,unstoppable,,,28/09/2026 16:41
 09709018-3e5a-4511-b369-eb6303dab64e,isle.phd,premium,111.25,,high,low,4,name.com,,,
+b00eb0f1-128f-4275-8a34-41fddf11720a,generosity.phd,available,20.84,20.84,high,low,10,spaceship,,,29/09/2026 01:04
 f12ff843-0594-4ccb-89f7-ef4bee0aaf44,brutality.phd,available,25.98,29.98,medium,low,9,namecheap,,,22/09/2026 04:26
 858da20a-e3d3-43c6-bd4b-b2618dcc8c16,infinite.phd,premium,411.25,411.25,high,medium,8,name.com,,,13/08/2026 03:37
 ad56d2d1-dc0d-47be-b2c0-9af5167cd72d,faceted.phd,available,25.98,29.98,medium,low,7,namecheap,,,17/08/2026 20:24
@@ -896,20 +970,24 @@ ad56d2d1-dc0d-47be-b2c0-9af5167cd72d,faceted.phd,available,25.98,29.98,medium,lo
 063604cd-6bf4-4173-9e40-ae4f1d64afea,efforts.phd,available,20.84,20.84,medium,low,7,spaceship,,,27/09/2026 22:23
 eb268039-7d42-47f6-9a9b-0256ca79c7d4,blink.phd,premium,115.7,115.7,high,medium,5,namecheap,,,22/09/2026 22:02
 d6440289-2b94-47f0-9ef6-965f26b6d809,aztecan.phd,available,25.98,29.98,high,low,7,namecheap,,,21/09/2026 11:37
-229960a2-620c-4e82-b29b-c443145b8a00,briefly.phd,available,26.99,,high,low,7,name.com,,,
+229960a2-620c-4e82-b29b-c443145b8a00,briefly.phd,available,20.2,20.2,high,low,7,cloudflare,,,28/09/2026 13:31
 22ca7690-4bf2-4758-bc50-d1db87dd09f4,rightist.phd,available,25.98,29.98,medium,low,8,namecheap,,,09/09/2026 17:31
 e7bb6fcc-d3fd-4309-bd55-e0603355885e,unsworn.phd,available,25.98,29.98,medium,low,7,namecheap,,,12/09/2026 20:53
 a850b526-fa82-4994-be09-224fbf463e3c,fourthly.phd,available,25.98,29.98,medium,low,8,namecheap,,,18/08/2026 13:50
 4eecb747-e85e-49b3-9249-e453621ff2de,inert.phd,available,25.98,29.98,high,low,5,namecheap,,,22/08/2026 03:57
+8e86b0d8-9b47-43c9-9392-c767f264ae79,prophecy.phd,available,27,,high,low,8,unstoppable,,,28/09/2026 10:47
 1e700386-5eba-494e-9de3-be3e2ef01434,churchly.phd,available,25.98,29.98,medium,low,8,namecheap,,,12/08/2026 07:48
 fcab2d39-35ae-4e92-971d-83e1e332510d,implanted.phd,available,25.98,29.98,medium,low,9,namecheap,,,13/08/2026 22:47
 5ea649a6-520e-43e1-9551-eb03c93d830e,rules.phd,premium,411.25,,high,low,5,name.com,,,
 aa847fc9-da7a-456c-ad8e-1223298e003c,actinidia.phd,available,25.98,29.98,medium,low,9,namecheap,,,17/09/2026 04:47
 7f39e883-ed65-41c8-b0d9-e84d40337ebc,reasonable.phd,available,25.98,29.98,high,low,10,namecheap,,,24/09/2026 16:20
+d1fc3e78-1297-438d-a0cf-575e7187371b,sweating.phd,available,20.84,20.84,medium,low,8,spaceship,,,28/09/2026 13:54
 d66e32e2-9f94-4ec7-bdc6-2283c4a5c7a5,oxidized.phd,available,25.98,29.98,medium,low,8,namecheap,,,04/09/2026 22:25
+823c889a-f51f-42c9-a5bc-084a8c2ea890,motto.phd,premium,50.92,50.92,high,low,5,spaceship,,,28/09/2026 13:39
 2252ccaa-7cf3-4186-8e91-3d40d0e94914,cardinal.phd,premium,61.25,61.25,high,low,8,name.com,,,11/08/2026 18:54
 038b9909-4ba6-4f2e-b2dd-601ac6b9ec7b,recoil.phd,available,25.98,29.98,high,low,6,namecheap,,,21/09/2026 15:32
 eacdc603-6e42-4f61-8dbe-f414bea047ff,saxon.phd,available,25.98,29.98,high,low,5,namecheap,,,09/09/2026 22:11
+a4d8645f-5446-42c4-bb5e-44735733307c,cfs.phd,premium,97.68,97.68,high,low,3,porkbun,,,29/09/2026 03:24
 f3e84587-03f5-45be-999e-fb458b6fae07,dioecious.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/08/2026 08:20
 8cb66aef-42ea-43a8-9227-4767a0b9560f,emotions.phd,premium,115.7,115.7,medium,low,8,namecheap,,,27/09/2026 02:04
 9b43c1cc-b8ab-4be5-87af-7d54a40ea0f6,scottish.phd,premium,115.7,115.7,high,low,8,namecheap,,,09/09/2026 23:35
@@ -921,81 +999,3 @@ de43c184-319e-4cd8-8d3e-d9e03fac9732,bamboo.phd,premium,427.7,427.7,high,medium,
 831a2b73-8c1c-4c63-a925-722a7749bd75,widgeon.phd,available,25.98,29.98,medium,low,7,namecheap,,,19/09/2026 02:58
 92e08e4a-2671-4b00-b4da-93f160b65db4,larval.phd,available,25.98,29.98,medium,low,6,namecheap,,,22/08/2026 20:01
 c207adcc-84f1-492c-9f42-cb2bc85847ea,grandad.phd,available,26.99,,high,low,7,name.com,,,
-16673560-5a68-4cce-b0e2-a02a1ecfe6ee,mutter.phd,available,25.98,29.98,high,low,6,namecheap,,,03/09/2026 11:12
-1dbe9ae6-ebf2-4226-8460-75c7ff25d2f7,clv.phd,premium,111.25,111.25,high,low,3,name.com,,,
-f58460b3-c1d3-411f-baee-850f65dee3f2,helpful.phd,premium,198.75,198.75,high,low,7,name.com,,,21/08/2026 06:37
-cb75bb5f-69a2-446f-809b-f1bfdc082575,howso.phd,available,26.99,,medium,low,6,name.com,,,
-045f6eab-1ffd-4b3c-938c-358c873a4ff2,parcel.phd,premium,63.7,63.7,high,low,6,namecheap,,,24/09/2026 11:15
-514a4ae6-c0e2-477b-96e7-23c4e39a9826,annalistic.phd,available,25.98,29.98,medium,low,10,namecheap,,,
-6eb106c1-66d5-409b-95b5-bcb1ad4b1713,supports.phd,premium,63.7,63.7,medium,low,8,namecheap,,,17/09/2026 06:20
-3be3fbb4-f108-4648-be8c-c9565f78347c,diminuendo.phd,available,25.98,29.98,medium,low,10,namecheap,,,13/08/2026 22:19
-5ab8a400-3465-40e4-a674-2cd35ad69378,furthermore.phd,available,25.98,29.98,high,low,11,namecheap,,,17/09/2026 08:41
-e8ae1d1d-021a-4a53-976e-964469aaa1a9,streetfighter.phd,available,26.99,,medium,low,14,name.com,,,
-acf4a5d1-c67b-426a-a6b0-fab1c0e98149,plop.phd,available,25.98,29.98,medium,low,4,namecheap,,,15/09/2026 20:39
-8e42e31b-f6e0-4bb6-857e-89a4a0c37ab1,asin.phd,premium,63.7,63.7,high,low,4,namecheap,,,20/09/2026 14:15
-70737759-e3d2-4de9-a990-5798971d0d43,caudate.phd,available,25.98,29.98,medium,low,7,namecheap,,,11/08/2026 22:26
-6e505259-cac4-49bb-ac61-2f4cfcf617bd,anchorman.phd,available,25.98,29.98,high,low,9,namecheap,,,19/09/2026 03:46
-8cf511e0-3408-4c69-af6b-fa30a8ee5b6b,retroflex.phd,available,25.98,29.98,medium,low,9,namecheap,,,11/08/2026 12:37
-f8e826c0-a639-41ef-bc0a-de34c2e81960,macbook.phd,available,26.99,,high,high,7,name.com,,,
-1386db21-3449-49e4-9806-795ab7b466e1,acromion.phd,available,25.98,29.98,medium,low,8,namecheap,,,17/09/2026 03:49
-31423198-c5dd-4ea5-bc55-bb4c72f5e157,term.phd,premium,411.25,,high,low,4,name.com,,,
-926a110e-9c91-4a1e-a2b7-171496de4693,ashamed.phd,available,20.2,20.2,medium,low,7,cloudflare,,,27/09/2026 17:32
-d13605e0-92de-4a6f-817d-c03ecfbdf760,autolytic.phd,available,25.98,29.98,medium,low,9,namecheap,,,07/08/2026 20:42
-dc3a963f-a12a-42ca-9ecc-6eeb8ccd2388,rubbed.phd,available,25.98,29.98,medium,low,6,namecheap,,,17/09/2026 07:54
-c616625a-cfaf-4cbf-bdca-280fda2b72e3,celebrating.phd,available,25.98,29.98,high,low,11,namecheap,,,27/09/2026 06:50
-c0be640e-f81a-4977-83a1-b3526ed7b223,cafe.phd,premium,843.7,843.7,high,low,4,namecheap,,,19/09/2026 13:35
-db831691-b153-4320-b188-17c106427f45,jailed.phd,available,25.98,29.98,medium,low,6,namecheap,,,19/09/2026 04:16
-7225f627-2302-4042-a6c2-492b48157b07,scrappy.phd,available,25.98,29.98,high,low,7,namecheap,,,09/09/2026 23:48
-e33bf5c9-a901-437d-8e58-2ad5f1d1b899,bush.phd,premium,115.7,115.7,high,low,4,namecheap,,,23/09/2026 11:53
-7102a3bc-5db5-4bd5-ab5b-4a8b0b0682ea,snappish.phd,available,25.98,29.98,high,medium,8,namecheap,,,10/09/2026 12:18
-ebaca575-be9b-485e-9ce0-2847ba4349e3,nominated.phd,available,25.98,29.98,high,low,9,namecheap,,,03/09/2026 18:18
-61c8d5c0-90be-4052-be38-389c775f0afd,scores.phd,premium,206.7,206.7,high,low,6,namecheap,,,14/09/2026 23:23
-90561b91-ede1-4d6b-85ba-e666435ef7e8,subsidized.phd,available,25.98,29.98,medium,low,10,namecheap,,,11/09/2026 00:46
-51b9fdeb-9df6-4c47-85af-bc838e407ab0,tabby.phd,available,25.98,29.98,high,low,5,namecheap,,,23/09/2026 09:31
-d58e3780-5505-4f8e-befd-84171cae7898,passion.phd,premium,411.25,,high,low,7,name.com,,,
-17c3b9df-9105-4ab2-ba83-55bf9427728d,detailed.phd,available,25.98,29.98,high,low,8,namecheap,,,24/09/2026 07:09
-1e5b8774-5f88-4764-aab3-91eac6089c08,rightish.phd,available,25.98,29.98,medium,low,8,namecheap,,,09/09/2026 17:35
-851756b8-a106-4130-9e8c-a21e82ef2bff,dividable.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/08/2026 13:41
-34c56df5-5c79-426a-a1c5-97bf255fd2c5,apollo.phd,premium,427.7,427.7,high,medium,6,namecheap,,,19/09/2026 18:42
-f023982e-e719-4b89-9f3f-16f590ef772a,bazar.phd,premium,206.7,206.7,high,low,5,namecheap,,,22/09/2026 18:23
-b0dc6995-8398-49a6-a241-bb5b3bc7d25d,proceed.phd,premium,61.25,,high,low,7,name.com,,,
-bf21492a-de90-4b45-ada2-ad35e8ea731e,ordered.phd,premium,63.7,63.7,high,low,7,namecheap,,,22/09/2026 08:32
-b7062908-bc93-4c87-9319-7842266a261d,tanning.phd,premium,61.25,61.25,high,low,7,name.com,,,22/08/2026 20:14
-8c5842ad-d88c-400d-9469-201a11f3e8b6,across.phd,premium,411.25,,high,low,6,name.com,,,
-bcebc84e-ed70-4a1e-b14b-368a201ee153,acinonyx.phd,available,25.98,29.98,medium,low,8,namecheap,,,17/09/2026 01:31
-443388aa-fe53-44b9-9ecb-bc5c5f1c113c,corded.phd,available,25.98,29.98,medium,low,6,namecheap,,,13/08/2026 00:57
-147009ce-a16a-4ee9-bd3c-c151e9830c20,somewhat.phd,available,25.98,29.98,high,low,8,namecheap,,,25/09/2026 12:06
-2056637e-b6d5-4391-9052-eb4ca4a0d16e,apostrophe.phd,available,25.98,29.98,high,low,10,namecheap,,,19/09/2026 19:30
-f762693a-bfc6-4855-94a3-7501dcee38a6,tutu.phd,premium,206.7,206.7,high,low,4,namecheap,,,21/09/2026 22:53
-4d0cb959-3cdb-4050-979d-45b1b598e4ec,guillaume.phd,available,20.84,20.84,high,low,9,spaceship,,,28/09/2026 04:52
-ffeff30b-7acb-4c1f-aa59-7d9c8485a721,forgotten.phd,available,25.98,29.98,high,low,9,namecheap,,,14/08/2026 12:18
-80f9d566-d492-4c7b-9499-8914447b7314,squeaky.phd,available,25.98,29.98,medium,low,7,namecheap,,,10/09/2026 00:04
-732d918d-ca13-4581-93a3-33e374e4111b,agent.phd,premium,843.7,843.7,high,medium,5,namecheap,,,17/09/2026 17:11
-129806e6-43da-45ba-9ee9-535b277c0f8c,assumption.phd,available,25.98,29.98,medium,low,10,namecheap,,,20/09/2026 16:39
-33568a54-8a0b-49a3-a4c0-8fd7554b62ad,route.phd,premium,206.7,206.7,high,low,5,namecheap,,,25/09/2026 07:52
-1d3547c1-5fb1-4860-ae2c-0e4ce8d1c159,boiled.phd,available,25.98,29.98,high,low,6,namecheap,,,10/08/2026 17:32
-182e4811-c180-43e9-9db0-12bbfc4dff2d,debater.phd,available,25.98,29.98,medium,low,7,namecheap,,,20/09/2026 04:45
-c685c78a-249a-4134-92be-db2c51eea8e2,semi.phd,premium,206.7,206.7,high,low,4,namecheap,,,20/09/2026 11:18
-4ed7db98-28d1-4ba1-94d3-831059cb6dc3,miraculous.phd,available,25.98,29.98,high,low,10,namecheap,,,21/08/2026 02:29
-61f00114-9dd9-4097-a47a-6f2051e8d427,vicenary.phd,available,25.98,29.98,medium,low,8,namecheap,,,13/09/2026 05:21
-6402c8d5-7141-423a-8914-5a65cb7faf3a,appellate.phd,available,25.98,29.98,medium,low,9,namecheap,,,06/08/2026 06:18
-5cde50d6-c20f-4eee-93fa-856c2f5a36b5,capture.phd,premium,206.7,206.7,high,low,7,namecheap,,,24/09/2026 12:42
-5e714880-51a3-4061-80db-a970424cfc6b,thwart.phd,available,25.98,29.98,medium,low,6,namecheap,,,09/09/2026 08:15
-386a978b-7d50-460b-9823-a52cf60119ab,sickly.phd,available,25.98,29.98,high,low,6,namecheap,,,
-aff4a633-7496-4fb0-bd93-eff618125efd,naughty.phd,premium,411.25,411.25,high,low,7,name.com,,,18/08/2026 20:00
-0d1fcd0e-83fa-4da9-bfa3-d13daa4706e9,edward.phd,premium,115.7,115.7,high,low,6,namecheap,,,18/09/2026 02:39
-2f9c6677-49f3-46d9-9a2c-8aac4cd822db,pantie.phd,available,25.98,29.98,medium,low,6,namecheap,,,09/09/2026 22:40
-fadfe291-9804-4b9d-bb4f-0f884b99a665,florentine.phd,available,25.98,29.98,high,low,10,namecheap,,,18/08/2026 08:58
-b545f5d8-7124-41f6-8d8e-a227855dfdbb,protein.phd,premium,427.7,427.7,high,low,7,namecheap,,,08/09/2026 08:51
-b29b5458-b21e-470a-ab67-bb993063b4a6,choler.phd,available,25.98,29.98,medium,low,6,namecheap,,,19/09/2026 06:04
-b0f3e127-4a24-444f-88b4-26ec968ab6ab,threadfish.phd,available,25.98,29.98,medium,low,10,namecheap,,,18/09/2026 04:49
-b9f252d1-bb3f-438c-873d-830086ba6da9,liberally.phd,available,25.98,29.98,medium,low,9,namecheap,,,14/09/2026 21:12
-482b83bb-8e6e-4a55-a53a-4abf53a6c529,clayton.phd,premium,115.7,115.7,medium,low,7,namecheap,,,25/09/2026 21:46
-4afcc5d5-5d6c-4461-8263-837f3263757e,sadducean.phd,available,25.98,29.98,high,medium,9,namecheap,,,09/09/2026 20:42
-c1ac0c36-1421-486f-bb0f-ef52fbbefb9a,addition.phd,premium,111.25,,high,low,8,name.com,,,
-a46bbc7d-e83a-477a-8659-869c49b493c8,onside.phd,available,25.98,29.98,medium,low,6,namecheap,,,04/09/2026 15:17
-feb576ec-9007-4a33-aea3-d1503dc2e799,aerofoil.phd,available,25.98,29.98,medium,low,8,namecheap,,,17/09/2026 13:00
-c12136d9-76a2-41f5-89ec-020e1ed8cac6,tentative.phd,available,25.98,29.98,high,low,9,namecheap,,,27/09/2026 07:00
-3a7e13c4-e472-4815-bce4-b425e37d364e,wasteful.phd,available,25.98,29.98,medium,low,8,namecheap,,,12/09/2026 08:47
-ad2455e9-bbe2-42d5-87c2-0f0206a1ece3,relevantly.phd,available,25.98,29.98,medium,low,10,namecheap,,,15/09/2026 22:59
-b532a6f2-c6d7-4aa3-a517-3f95146057f8,erstwhile.phd,available,25.98,29.98,medium,low,9,namecheap,,,17/08/2026 13:05
