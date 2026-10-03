@@ -1,10 +1,10 @@
-# Available .PHD One-Word Domains (33,912)
+# Available .PHD One-Word Domains (36,282)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-33%2C912%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C282%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .phd one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **33,912 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,282 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 33,912 domains · **Median ask:** $85.02 · **High-demand under $2,500:** 91
+**Public extract:** 1,000 rows · **Live catalog:** 36,282 domains · **Median ask:** $81.86 · **High-demand under $2,500:** 97
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/tld/phd`
 **Best for:** founders, investors, studios
 
@@ -72,18 +72,18 @@ print(df.head())
 | ara.phd  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
 | deft.phd | available | $25.98    | $29.98        | high           | low    | 4      | namecheap   |
 | ass.phd  | premium   | $811.25   | $811.25       | high           | low    | 3      | name.com    |
-| fenn.phd | available | $20.20    | $20.20        | medium         | low    | 4      | cloudflare  |
+| elko.phd | available | $20.84    | $20.84        | medium         | low    | 4      | spaceship   |
 | bap.phd  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
-| flew.phd | available | $20.84    | $20.84        | high           | low    | 4      | spaceship   |
+| fenn.phd | available | $20.20    | $20.20        | medium         | low    | 4      | cloudflare  |
 | bce.phd  | premium   | $111.25   | —             | medium         | low    | 3      | name.com    |
+| flew.phd | available | $20.84    | $20.84        | high           | low    | 4      | spaceship   |
+| bsd.phd  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
 | grub.phd | available | $25.98    | $29.98        | high           | low    | 4      | namecheap   |
-| cfa.phd  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
-| kidd.phd | available | $21.11    | $21.11        | high           | low    | 4      | porkbun     |
-| cir.phd  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
+| cep.phd  | premium   | $159.20   | —             | high           | low    | 3      | unstoppable |
 | lank.phd | available | $25.98    | $29.98        | medium         | low    | 4      | namecheap   |
-| dew.phd  | premium   | $92.32    | $92.32        | high           | low    | 3      | spaceship   |
+| cfa.phd  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
 | noaa.phd | available | $27       | —             | high           | low    | 4      | unstoppable |
-| ecm.phd  | premium   | $115.70   | $115.70       | high           | low    | 3      | namecheap   |
+| cir.phd  | premium   | $89.20    | —             | high           | low    | 3      | unstoppable |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 33,912 live domains                        |
+| 1,000-row public sample | 36,282 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 91 high-demand names under $2,500          |
+| Basic exported fields   | 97 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .PHD One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
